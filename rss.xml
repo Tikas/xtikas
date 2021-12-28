@@ -2,23 +2,146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://xtikas.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>xTikas</title>
+    <title>小T同学</title>
     <link>https://xtikas.com/</link>
     <description>一个充满了新枫之谷探索成果的网站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Dec 2021 16:25:03 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Dec 2021 16:25:03 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Dec 2021 16:49:02 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Dec 2021 16:49:02 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 𝒙𝑻𝒊𝒌𝒂𝒔</copyright>
-    <category>工具</category>
     <category>吃瓜</category>
+    <category>工具</category>
     <category>新人教程</category>
+    <item>
+      <title>关于一个充满了新枫之谷探索成果的网站</title>
+      <link>https://xtikas.com/about.html</link>
+      <guid isPermaLink="false">/about.html</guid>
+      <source url="https://xtikas.com/rss.xml">关于一个充满了新枫之谷探索成果的网站</source>
+      <description>创作之余的唠叨之地：关于本站</description>
+      <content:encoded><![CDATA[<div>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/avatar/anan-240x240.webp" alt="安安" /></p>
+</div>
+<h2 id="写在前言"> 写在前言</h2>
+<p>如果您不小心进来 <code>小T同学</code> 这个网站，然后又很不小心地进到这个页面，想必您对我这个网站或者对我这个人感兴趣。</p>
+<p>由于一直比较喜欢 MapleStory 这款游戏，怀着想弄一个自己的游戏内容库，以方便自己查阅相关信息，同时也方便朋友们，如是便有了本站的出现。</p>
+<p>如果您觉得我是个有意思的人，不妨接着往下看：</p>
+<h2 id="关于我"> 关于我</h2>
+<p>网名叫做 Tikas（初中时英语老师要求我们每个同学要有自己的英文名，当时给自己取的第 5 个英文名），在 2008 年就一直关注 Tikas 的顶级域名，然而，关注了 8 年，还是没能抢到。</p>
+<p>如是不得不改名为：小T同学；同时也给自己的英文名前面加多一个 X，好无奈 o((⊙﹏⊙))o</p>
+<p>出产于广东河源，由于小学就自学加被提携初中、高中、大学物理知识（主要是小时候同村里的大学生在一起整天搞无线电波，灌输了很多无线电知识及大学课程知识，当然，现在已经全还回去了），导致从小学开始就严重偏科，属于理科无敌，文科战五渣的那种类型。</p>
+<p>由于许多理科知识小学时期已经掌握，对老师的指导，失去了学习兴趣，迟到、逃课、课间睡觉等几乎每天必做，典型的坏学生从此诞生！</p>
+<p>然而，理科依旧常年是全校同级前三名列，同时，英语几乎每次是零分战绩（选择题随机出来的十来二十分不算在内）。</p>
+<p>由于坏学生光环加持，学校为我特意开过会议，为了拯救我的学习兴趣，特别是英语方面，享受到了全校所有英语老师来亲自拜访，同时也受到了多个英语老师的教导，是他们的努力，让我对英文产生了浓厚的兴趣，从此让我爱上了外语歌曲，并且长达十多年之久只听外语歌曲。</p>
+<p>虽然依旧没能拯救成功，但是依旧很感谢您们的努力！老师，您辛苦了！</p>
+<p>据说稍微有那么一点英语细胞，但是最终还是消失了。</p>
+<blockquote>
+<ul>
+<li>对电脑有严重的强迫症，只要有流氓进来就必重装系统，特别是数字类的流氓！</li>
+<li>非常喜欢音乐</li>
+<li>最想去武汉</li>
+<li>宅男一个，连电影院都很少去，多数是朋友请才去，才去了五次。曾经每次的电影票都保留，现已丢失部分。</li>
+<li>未完待续...</li>
+</ul>
+</blockquote>
+<h2 id="关于本站"> 关于本站</h2>
+<p>「<strong>小T同学</strong>」是一个致力打造一个充满了新枫之谷探索成果的网站，因我个人兴趣而创建。</p>
+<p>最初叫《爱探索的小T同学》，起初的域名已经过期失效，经历过多次服务商转移，网站改版，网站被攻击后，改版到现在的 <strong>xTikas.com</strong></p>
+<blockquote>
+<p>感谢：</p>
+<ul>
+<li>存储：<a href="https://github.com/" target="_blank" rel="noopener noreferrer">Github</a></li>
+<li>托管：<a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer">Cloudflare</a></li>
+<li>CDN：<a href="https://www.jsdelivr.com/" target="_blank" rel="noopener noreferrer">Jsdelivr</a></li>
+<li>驱动：<a href="https://vuepress.vuejs.org/" target="_blank" rel="noopener noreferrer">Vuepress</a></li>
+<li>主题：<a href="https://vuepress-theme-hope.github.io/zh/" target="_blank" rel="noopener noreferrer">Hope</a></li>
+<li>改版前使用的主题：<a href="https://volantis.js.org/" target="_blank" rel="noopener noreferrer">Volantis</a></li>
+</ul>
+</blockquote>
+<p>经过这么多年的荒废，内容却一直没能完善，在 2021 年年底网站重构时，对旧内容做了全部重写。</p>
+<p>由于工作上的忙碌，本站的内容撰写进度比较缓慢，多数是我深夜撰写，请大家多多体谅，谢谢！</p>
+<h2 id="秉承初心迎接未来"> 秉承初心迎接未来</h2>
+<p>热爱 MapleStory ，我会尽自己的努力，让大家能通过本站看到更多有用的信息，展现出 MapleStory 原有的样貌。</p>
+<p>现阶段依旧处于内容撰写时期，参与创作已经邀请了：拿笔、小海，期待未来能有更多的小伙伴加入一起创作（2021年是让我真心感觉时间不够用的一年，从用时一年多的品牌策划到帮助朋友的工厂，实在太忙了）</p>
+<p>未来时间充足了，我会制作相关视频，让大家能通过视频更加直观感受到游戏的乐趣。</p>
+<p>一切的走向，都以纯内容为核心，让大家能有一个上佳的阅读体验！</p>
+<p>感谢以下小伙伴在网站刚建立前期的赞助：</p>
+<p>TODO: 待拉取最初的赞赏信息</p>
+<h2 id="可供交流的渠道"> 可供交流的渠道</h2>
+<p>虽然一直不怎么想创建公开群给大家，之前的都是小群，那怕是直播时也是观众大佬们要求才再创建一个新群。</p>
+<p>但是，现在越来越感觉到没有充溢着纯萌新交流的群了，更多的是怀着相关目的。</p>
+<p>为此，也算是为本站正式开始创建纯交流群。</p>
+<p>如果您来加入群聊，您需要遵守下面协议：</p>
+<div><p>枫谷各班通用班规 第一版</p>
+<p>TODO: 有时间写个班规出来</p>
+</div>
+<hr>
+<p><a href='http://wpa.qq.com/msgrd?v=3&uin=87182380&site=qq&menu=yes' target='_blank' rel='noopener noreferrer'>QQ联系站长</a></p>
+<p>非公开群:<a href='https://qm.qq.com/cgi-bin/qm/qr?k=C5Wt_MWULgZqhMzyqfD_3eOcHKEBBZ8m&jump_from=webapi' target='_blank' rel='noopener noreferrer'>内部群</a> | <a href='https://qm.qq.com/cgi-bin/qm/qr?k=gCh0yc2Pd8X-_3qo5ov0sTRVUzLyTAeZ&jump_from=webap' target='_blank' rel='noopener noreferrer'>内测群</a></p>
+<p>公开交流群:<a href='https://qm.qq.com/cgi-bin/qm/qr?k=KE4PtYyyQp9EAP0k8_AvcA8pugcG-_SQ&jump_from=webapi' target='_blank' rel='noopener noreferrer'>枫谷22年A班</a> 暗号:666156</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/avatar/anan-240x240.webp" type="image/webp"/>
+    </item>
     <item>
       <title>小T同学:xTikas</title>
       <link>https://xtikas.com/</link>
       <guid>https://xtikas.com/</guid>
       <source url="https://xtikas.com/rss.xml">小T同学:xTikas</source>
+    </item>
+    <item>
+      <title>离心式洗号——揭秘岁城离心不为人知的事实</title>
+      <link>https://xtikas.com/lixin.html</link>
+      <guid isPermaLink="false">/lixin.html</guid>
+      <source url="https://xtikas.com/rss.xml">离心式洗号——揭秘岁城离心不为人知的事实</source>
+      <description>本文从离心如何在台服新枫之谷起家到最后的背叛，一一讲解，让您知晓那些不为人知的事实。</description>
+      <category>吃瓜</category>
+      <content:encoded><![CDATA[<p>岁城离心，真名：谢啟鑫，目前是 QQ群：337971357 群主，斗鱼直播间号为：<a href="https://www.douyu.com/875191" target="_blank" rel="noopener noreferrer">875191</a>，目前使用的 QQ 号为：544055641，已知使用两个支付宝。</p>
+<p>本文会有少量个人点评，但纯属撰写真实事件，揭秘岁城离心不为人知的事实。</p>
+<h2 id="一、起源"> 一、起源</h2>
+<p>从国服刚刚来到台服的离心，同不少的萌新都一样，什么都不懂。</p>
+<p>一切的开端，就从离心租轮时，遇到了柯南。</p>
+<p>那时的离心，对装备不了解，对职业不了解，对练级方法也同样不了解！</p>
+<p>好心的柯南，带着 link 套和花轮，一把鼻涕一把尿教离心怎样快速练级，还手把手教导了很多枫之谷这游戏的相关知识点。</p>
+<p>不可置否，柯南是离心的枫之谷导师。</p>
+<h2 id="二、柯南带着离心走进代练"> 二、柯南带着离心走进代练</h2>
+<p>在 2019年年中，柯南同离心发起了接点代练来做，以赚点外快。他们两人一起出钱买了一个燃烧之戒。</p>
+<p>当时说好了是 7：3 分，离心找客户拿 3成，柯南打号拿 7成（那时离心依旧还是不会高效练级，但是已经不属于萌新了）。离心拿 3成，是要负责挂花轮的。</p>
+<p>基本上是直播打号，打了没几个单子之后，就发起了建立一个 QQ交流群（现在离心的交易群前身），邀请了当时所有斗鱼直播的主播。</p>
+<p>如：好奇，百川，黑童话等等，当然也还有我在内。</p>
+<p>一直持续了两个月之后，柯南就回去上班了。由于上班之后，只能晚上打打号，效率低了好多，柯南就开始逐渐放弃代练。</p>
+<p>那时的离心，就开始做一些代卖和代买，主要都是走 8591 的。</p>
+<h2 id="三、柯南的首次退谷"> 三、柯南的首次退谷</h2>
+<p>由于柯南晚上练号到半夜，影响到了第二天上班，柯南就决定不再代练，link 装备 和 柯南的账号都留给了离心（号上有轮烧，烧是一人出一半钱），然后让离心再找个伙伴一起做代练。</p>
+<p>那时的离心是找了我来做伙伴。</p>
+<p>之后柯南在回归之前便再也没上过游戏。</p>
+<h2 id="四、离心式洗号-一切从群主身份开始"> 四、离心式洗号，一切从群主身份开始</h2>
+<p>由于离心是群主，这导致了很多人依附他，给予了他很多便利。</p>
+<p>而这，也是离心式洗号的开始，他把很多群友给予的便利，当成自己的，直接贩卖变现，整个过程，原主是一点都不知情。</p>
+<p>如果不是柯南之后的回归，一堆的人被蒙在鼓里。</p>
+<h2 id="五、柯南的回归-让事件开始崭露头角"> 五、柯南的回归，让事件开始崭露头角</h2>
+<p>2020年年初，由于疫情原因，这让许多的人以游戏打发时间，而柯南，也在 3月份 回归枫之谷。</p>
+<p>然而！轮和烧，以及 link 套，全没了，仅剩下一个仅有联盟的 “空号” 而已。</p>
+<p>也是这个月，柯南开始了长达 9个月 的装备讨回之路。</p>
+<p>柯南一定想不到，已经 2021年的艾比活动结束了，依旧是没能讨回所有的装备（这都是后话）</p>
+<h2 id="六、更多人的装备-在原主不知情的情况下-被离心贩卖"> 六、更多人的装备，在原主不知情的情况下，被离心贩卖</h2>
+<p>由于离心是群主关系，已经借过很多人的 link 套、轮回等道具，并且，都是隐瞒原主，直接贩卖。</p>
+<h2 id="七、从2020年7月开始-困难时期的离心-我给了他一些帮助"> 七、从2020年7月开始，困难时期的离心，我给了他一些帮助</h2>
+<p>知道离心已经贩卖了很多人的装备，急需要钱进行偿还的他，在他最需要的时候，安排了两个满级的号进行排班，再怎么说，当时也是他拉我来代练的。</p>
+<p>做人要懂得感恩。</p>
+<p>由于我深刻知晓代练不易，所以，所有的价格都是没有进行抽成的，比如，一小时 35元，就能拿到手有 35元（我一直以来志不在此，而是想让小伙伴们能拿到不被抽成的劳动费）。</p>
+<p><a href="https://docs.qq.com/sheet/DTG9RU3NuTFd6Y0py?tab=BB08J2" target="_blank" rel="noopener noreferrer">点我查看最后一次安排表</a></p>
+<h2 id="八、拉黑离心-从他有钱不还开始"> 八、拉黑离心，从他有钱不还开始</h2>
+<p>安排了两个号，从7月到9月，虽然中间有断过半个月，期间他还自己接了一些单练，怎么说也有 2W 进账。</p>
+<p>然而，依旧欠着这些被他贩卖装备的钱。</p>
+<p>我对自己拉黑他的评价是：</p>
+<p><strong>他是一个不懂得感恩的人，他的所作所为让我很难过。</strong></p>
+<h2 id="九、2020年12月-公开了这场完整的吃瓜事件"> 九、2020年12月，公开了这场完整的吃瓜事件</h2>
+<p>事件发生之后，无功的账号上依旧留下两件传说漆黑饰品，如果是盗号的，不可能会留下这两件装备，因为根本没上锁，枫了就能剪走。</p>
+<p>可能是 ta 舍不得传说潜能，毁了过于可惜。</p>
+<p>也许是当时没有找到合适的买家，如果直接出传说烂潜，等于是全世界都知道 ta 的事迹。</p>
+<p>感兴趣可以了解一下：<a href="https://pan.baidu.com/s/1Mog_VeGqyvfowlqEKS3GHA" target="_blank" rel="noopener noreferrer">百度盘</a>  提取码: 5ves</p>
+]]></content:encoded>
     </item>
     <item>
       <title>缤放登录器-乐豆第三方客户端：使用教程</title>
@@ -277,60 +400,6 @@
       <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/trojan-mail.webp" type="image/webp"/>
     </item>
     <item>
-      <title>离心式洗号——揭秘岁城离心不为人知的事实</title>
-      <link>https://xtikas.com/lixin.html</link>
-      <guid isPermaLink="false">/lixin.html</guid>
-      <source url="https://xtikas.com/rss.xml">离心式洗号——揭秘岁城离心不为人知的事实</source>
-      <description>本文从离心如何在台服新枫之谷起家到最后的背叛，一一讲解，让您知晓那些不为人知的事实。</description>
-      <category>吃瓜</category>
-      <content:encoded><![CDATA[<p>岁城离心，真名：谢啟鑫，目前是 QQ群：337971357 群主，斗鱼直播间号为：<a href="https://www.douyu.com/875191" target="_blank" rel="noopener noreferrer">875191</a>，目前使用的 QQ 号为：544055641，已知使用两个支付宝。</p>
-<p>本文会有少量个人点评，但纯属撰写真实事件，揭秘岁城离心不为人知的事实。</p>
-<h2 id="一、起源"> 一、起源</h2>
-<p>从国服刚刚来到台服的离心，同不少的萌新都一样，什么都不懂。</p>
-<p>一切的开端，就从离心租轮时，遇到了柯南。</p>
-<p>那时的离心，对装备不了解，对职业不了解，对练级方法也同样不了解！</p>
-<p>好心的柯南，带着 link 套和花轮，一把鼻涕一把尿教离心怎样快速练级，还手把手教导了很多枫之谷这游戏的相关知识点。</p>
-<p>不可置否，柯南是离心的枫之谷导师。</p>
-<h2 id="二、柯南带着离心走进代练"> 二、柯南带着离心走进代练</h2>
-<p>在 2019年年中，柯南同离心发起了接点代练来做，以赚点外快。他们两人一起出钱买了一个燃烧之戒。</p>
-<p>当时说好了是 7：3 分，离心找客户拿 3成，柯南打号拿 7成（那时离心依旧还是不会高效练级，但是已经不属于萌新了）。离心拿 3成，是要负责挂花轮的。</p>
-<p>基本上是直播打号，打了没几个单子之后，就发起了建立一个 QQ交流群（现在离心的交易群前身），邀请了当时所有斗鱼直播的主播。</p>
-<p>如：好奇，百川，黑童话等等，当然也还有我在内。</p>
-<p>一直持续了两个月之后，柯南就回去上班了。由于上班之后，只能晚上打打号，效率低了好多，柯南就开始逐渐放弃代练。</p>
-<p>那时的离心，就开始做一些代卖和代买，主要都是走 8591 的。</p>
-<h2 id="三、柯南的首次退谷"> 三、柯南的首次退谷</h2>
-<p>由于柯南晚上练号到半夜，影响到了第二天上班，柯南就决定不再代练，link 装备 和 柯南的账号都留给了离心（号上有轮烧，烧是一人出一半钱），然后让离心再找个伙伴一起做代练。</p>
-<p>那时的离心是找了我来做伙伴。</p>
-<p>之后柯南在回归之前便再也没上过游戏。</p>
-<h2 id="四、离心式洗号-一切从群主身份开始"> 四、离心式洗号，一切从群主身份开始</h2>
-<p>由于离心是群主，这导致了很多人依附他，给予了他很多便利。</p>
-<p>而这，也是离心式洗号的开始，他把很多群友给予的便利，当成自己的，直接贩卖变现，整个过程，原主是一点都不知情。</p>
-<p>如果不是柯南之后的回归，一堆的人被蒙在鼓里。</p>
-<h2 id="五、柯南的回归-让事件开始崭露头角"> 五、柯南的回归，让事件开始崭露头角</h2>
-<p>2020年年初，由于疫情原因，这让许多的人以游戏打发时间，而柯南，也在 3月份 回归枫之谷。</p>
-<p>然而！轮和烧，以及 link 套，全没了，仅剩下一个仅有联盟的 “空号” 而已。</p>
-<p>也是这个月，柯南开始了长达 9个月 的装备讨回之路。</p>
-<p>柯南一定想不到，已经 2021年的艾比活动结束了，依旧是没能讨回所有的装备（这都是后话）</p>
-<h2 id="六、更多人的装备-在原主不知情的情况下-被离心贩卖"> 六、更多人的装备，在原主不知情的情况下，被离心贩卖</h2>
-<p>由于离心是群主关系，已经借过很多人的 link 套、轮回等道具，并且，都是隐瞒原主，直接贩卖。</p>
-<h2 id="七、从2020年7月开始-困难时期的离心-我给了他一些帮助"> 七、从2020年7月开始，困难时期的离心，我给了他一些帮助</h2>
-<p>知道离心已经贩卖了很多人的装备，急需要钱进行偿还的他，在他最需要的时候，安排了两个满级的号进行排班，再怎么说，当时也是他拉我来代练的。</p>
-<p>做人要懂得感恩。</p>
-<p>由于我深刻知晓代练不易，所以，所有的价格都是没有进行抽成的，比如，一小时 35元，就能拿到手有 35元（我一直以来志不在此，而是想让小伙伴们能拿到不被抽成的劳动费）。</p>
-<p><a href="https://docs.qq.com/sheet/DTG9RU3NuTFd6Y0py?tab=BB08J2" target="_blank" rel="noopener noreferrer">点我查看最后一次安排表</a></p>
-<h2 id="八、拉黑离心-从他有钱不还开始"> 八、拉黑离心，从他有钱不还开始</h2>
-<p>安排了两个号，从7月到9月，虽然中间有断过半个月，期间他还自己接了一些单练，怎么说也有 2W 进账。</p>
-<p>然而，依旧欠着这些被他贩卖装备的钱。</p>
-<p>我对自己拉黑他的评价是：</p>
-<p><strong>他是一个不懂得感恩的人，他的所作所为让我很难过。</strong></p>
-<h2 id="九、2020年12月-公开了这场完整的吃瓜事件"> 九、2020年12月，公开了这场完整的吃瓜事件</h2>
-<p>事件发生之后，无功的账号上依旧留下两件传说漆黑饰品，如果是盗号的，不可能会留下这两件装备，因为根本没上锁，枫了就能剪走。</p>
-<p>可能是 ta 舍不得传说潜能，毁了过于可惜。</p>
-<p>也许是当时没有找到合适的买家，如果直接出传说烂潜，等于是全世界都知道 ta 的事迹。</p>
-<p>感兴趣可以了解一下：<a href="https://pan.baidu.com/s/1Mog_VeGqyvfowlqEKS3GHA" target="_blank" rel="noopener noreferrer">百度盘</a>  提取码: 5ves</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>🆔 新枫之谷（台服冒险岛）账号注册</title>
       <link>https://xtikas.com/register-an-account.html</link>
       <guid isPermaLink="false">/register-an-account.html</guid>
@@ -554,87 +623,6 @@
       <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/update-file.webp" type="image/webp"/>
     </item>
     <item>
-      <title>☁️ 新枫之谷（台服冒险岛）游戏下载</title>
-      <link>https://xtikas.com/download.html</link>
-      <guid isPermaLink="false">/download.html</guid>
-      <source url="https://xtikas.com/rss.xml">☁️ 新枫之谷（台服冒险岛）游戏下载</source>
-      <description>提供新枫之谷（台服冒险岛）最新版本的官方游戏下载地址，以及最新的更新档补丁，还有旧版本升级到最新版本的更新补丁。</description>
-      <category>新人教程</category>
-      <content:encoded><![CDATA[<div><p>提示</p>
-<p>下载地址来自官方公开地址，只为方便无法正常访问官网的用户使用。</p>
-<p>如果您可以访问官网，建议您多多去官网，还能留意相关维护信息。</p>
-<div>
-<p><a href="https://maplestory.beanfun.com/download" target="_blank" rel="noopener noreferrer">新枫之谷官网下载页面</a></p>
-</div>
-</div>
-<h2 id="一、当前最新游戏版本"> 一、当前最新游戏版本</h2>
-<p>当前游戏最新版本为: <code>v239</code> 版本（同步更新于: 2021/12/01）</p>
-<p>目前还没有小版本更新档。</p>
-<h2 id="二、下载-v239-大版本游戏安装文件"> 二、下载 <code>v239</code> 大版本游戏安装文件</h2>
-<p><code>v239</code> 大版本安装文件:</p>
-<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MapleStoryV239/MapleStoryV239.zip
-</code></pre>
-</div><p>建议使用下载工具进行下载, 您将会得到一个 18.4 GB 左右大小的 <code>zip</code> 文件</p>
-<p>Windows OS 默认是支持 <code>zip</code> 文件解压操作的</p>
-<blockquote>
-<p>如果您的电脑无法对此文件进行解压, 您可以点此链接: <a href="https://www.7-zip.org/a/7z1900-x64.exe" target="_blank" rel="noopener noreferrer">下载安装 7-zip 软件</a></p>
-</blockquote>
-<h2 id="三、安装-v239-大版本游戏"> 三、安装 <code>v239</code> 大版本游戏</h2>
-<p>由于台服使用了繁体编码，在简体系统中运行会显示乱码，但是，并不影响整个游戏的安装</p>
-<p>运行解压出来的安装主程序即可进行安装 (很容易猜出<code>下一步</code>按钮)</p>
-<div><p>安装目录一定不能有中文</p>
-<p>如果游戏的目录路径带有中文，您将无法正常启动游戏</p>
-</div>
-<details><summary>安装过程出现异常错误提示（乱码显示）</summary>
-<p>如果您安装过程中一直会提示相关对话框，不能顺利进行安装，您下载回来的游戏文档可能并没有下全。</p>
-<p>请检查一下分割包 bin 的文件大小是否都一致：</p>
-<p>一般前面的几个 bin 文件，大小都是一样的，只有最后一个 bin 文件才会小些。</p>
-<p>您可以尝试修复一下下载回来的 <code>zip</code> 文件, 如果修复后还是会提示, 建议您重新下载游戏文件</p>
-</details>
-<h2 id="四、下载小版本更新档文件"> 四、下载小版本更新档文件</h2>
-<p>当前没有出小版本更新档文件，即 <code>v239</code> 是最新版本。</p>
-<h2 id="五、安装小版本更新档文件"> 五、安装小版本更新档文件</h2>
-<p>小版本更新档文件多数是 <code>7z</code> 文档来的, 您可以很直观通过文件的图标识别它</p>
-<p>建议右键以 <code>管理员身份运行</code> 更新包程序</p>
-<div><p>提示</p>
-<p>当前 <code>v239</code> 是最新版本，请大家跳过这一步。</p>
-</div>
-<h3 id="_5-1-运行小版本更新档程序"> 5.1 运行小版本更新档程序</h3>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/run-the-update-package.webp" alt="运行新枫之谷手动游戏更新包" /></p>
-<p>从上图可以看出，手动更新包运行时，获取的目录路径是当前的。</p>
-<p>可以把手动更新包拷贝到游戏目录内运行的哦！</p>
-<p>为了减少游戏目录所占用空间过大，推荐把更新包存放在其他地方。</p>
-<h3 id="_5-2-指定游戏目录"> 5.2 指定游戏目录</h3>
-<p>点击 <code>...</code> 按钮，会弹出浏览文件夹对话框，指定到新枫之谷游戏的目录路径</p>
-<p>如下图所示（这是小T同学自己的游戏目录安装地方，并不是您的电脑游戏所在目录）</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/maplestory-directory.webp" alt="新枫之谷目录路径" /></p>
-<p>MapleStory 目录下有：BlackCipher，blob_storage，GPUCache，locales，swiftshader 等目录</p>
-<p>那么这个 MapleStory 就是游戏目录路径啦！</p>
-<blockquote>
-<p>本来不想多说这一步的，实在是太多小伙伴游戏目录类似这样的：.../MapleStory/MapleStory/MapleStory.exe,然后他们分不出到底那个 MapleStory 才是正确的游戏目录</p>
-</blockquote>
-<h3 id="_5-3-extract-解压覆盖"> 5.3 Extract 解压覆盖</h3>
-<p>确保游戏目录没有错误，就开始点 Extract 按钮，解压覆盖吧！</p>
-<p>提示下图所示，就是解压到正确的游戏目录了，点：<code>Yes to All</code> 吧！</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/yes-to-all.webp" alt="点击 yes to all 覆盖旧版本文件" /></p>
-<h2 id="六、旧版本升级到最新版本"> 六、旧版本升级到最新版本</h2>
-<p>如果您电脑里之前有新枫之谷，那么您可以前往游戏目录，右键游戏的启动程序：<code>MapleStory.exe</code>，选择属性，查看一下 <code>详细信息</code> 里的产品版本，可以得知当前旧游戏的版本信息。</p>
-<p>再查看一下是否有对应的升级文件，如果有，就可以下载升级文件更新到最新版本。</p>
-<p>当然，更新到大版本之后，还是要检测一下当前大版本是否有出小版本更新，具体可以参考本文前面的内容：<code>四、下载小版本更新档文件</code></p>
-<div><p>注意</p>
-<p>此步骤仅适合原本电脑里有新枫之谷的玩家使用</p>
-</div>
-<p><code>v237</code> - <code>v239</code> 升级文件：</p>
-<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MaplePatch237to239.exe
-</code></pre>
-</div><p><code>v238</code> - <code>v239</code> 升级文件：</p>
-<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MaplePatch238to239.exe
-</code></pre>
-</div><p>建议右键以 <code>管理员身份运行</code> 升级程序，升级完之后，记得去下载当前版本的小版本更新档，并完成更新。</p>
-]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/run-the-update-package.webp" type="image/webp"/>
-    </item>
-    <item>
       <title>💲 beanfun 乐豆点 Gash 充值教程</title>
       <link>https://xtikas.com/recharge-tutorial.html</link>
       <guid isPermaLink="false">/recharge-tutorial.html</guid>
@@ -764,6 +752,87 @@
 </div>
 ]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/enter-the-recharge-gash-page.webp" type="image/webp"/>
+    </item>
+    <item>
+      <title>☁️ 新枫之谷（台服冒险岛）游戏下载</title>
+      <link>https://xtikas.com/download.html</link>
+      <guid isPermaLink="false">/download.html</guid>
+      <source url="https://xtikas.com/rss.xml">☁️ 新枫之谷（台服冒险岛）游戏下载</source>
+      <description>提供新枫之谷（台服冒险岛）最新版本的官方游戏下载地址，以及最新的更新档补丁，还有旧版本升级到最新版本的更新补丁。</description>
+      <category>新人教程</category>
+      <content:encoded><![CDATA[<div><p>提示</p>
+<p>下载地址来自官方公开地址，只为方便无法正常访问官网的用户使用。</p>
+<p>如果您可以访问官网，建议您多多去官网，还能留意相关维护信息。</p>
+<div>
+<p><a href="https://maplestory.beanfun.com/download" target="_blank" rel="noopener noreferrer">新枫之谷官网下载页面</a></p>
+</div>
+</div>
+<h2 id="一、当前最新游戏版本"> 一、当前最新游戏版本</h2>
+<p>当前游戏最新版本为: <code>v239</code> 版本（同步更新于: 2021/12/01）</p>
+<p>目前还没有小版本更新档。</p>
+<h2 id="二、下载-v239-大版本游戏安装文件"> 二、下载 <code>v239</code> 大版本游戏安装文件</h2>
+<p><code>v239</code> 大版本安装文件:</p>
+<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MapleStoryV239/MapleStoryV239.zip
+</code></pre>
+</div><p>建议使用下载工具进行下载, 您将会得到一个 18.4 GB 左右大小的 <code>zip</code> 文件</p>
+<p>Windows OS 默认是支持 <code>zip</code> 文件解压操作的</p>
+<blockquote>
+<p>如果您的电脑无法对此文件进行解压, 您可以点此链接: <a href="https://www.7-zip.org/a/7z1900-x64.exe" target="_blank" rel="noopener noreferrer">下载安装 7-zip 软件</a></p>
+</blockquote>
+<h2 id="三、安装-v239-大版本游戏"> 三、安装 <code>v239</code> 大版本游戏</h2>
+<p>由于台服使用了繁体编码，在简体系统中运行会显示乱码，但是，并不影响整个游戏的安装</p>
+<p>运行解压出来的安装主程序即可进行安装 (很容易猜出<code>下一步</code>按钮)</p>
+<div><p>安装目录一定不能有中文</p>
+<p>如果游戏的目录路径带有中文，您将无法正常启动游戏</p>
+</div>
+<details><summary>安装过程出现异常错误提示（乱码显示）</summary>
+<p>如果您安装过程中一直会提示相关对话框，不能顺利进行安装，您下载回来的游戏文档可能并没有下全。</p>
+<p>请检查一下分割包 bin 的文件大小是否都一致：</p>
+<p>一般前面的几个 bin 文件，大小都是一样的，只有最后一个 bin 文件才会小些。</p>
+<p>您可以尝试修复一下下载回来的 <code>zip</code> 文件, 如果修复后还是会提示, 建议您重新下载游戏文件</p>
+</details>
+<h2 id="四、下载小版本更新档文件"> 四、下载小版本更新档文件</h2>
+<p>当前没有出小版本更新档文件，即 <code>v239</code> 是最新版本。</p>
+<h2 id="五、安装小版本更新档文件"> 五、安装小版本更新档文件</h2>
+<p>小版本更新档文件多数是 <code>7z</code> 文档来的, 您可以很直观通过文件的图标识别它</p>
+<p>建议右键以 <code>管理员身份运行</code> 更新包程序</p>
+<div><p>提示</p>
+<p>当前 <code>v239</code> 是最新版本，请大家跳过这一步。</p>
+</div>
+<h3 id="_5-1-运行小版本更新档程序"> 5.1 运行小版本更新档程序</h3>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/run-the-update-package.webp" alt="运行新枫之谷手动游戏更新包" /></p>
+<p>从上图可以看出，手动更新包运行时，获取的目录路径是当前的。</p>
+<p>可以把手动更新包拷贝到游戏目录内运行的哦！</p>
+<p>为了减少游戏目录所占用空间过大，推荐把更新包存放在其他地方。</p>
+<h3 id="_5-2-指定游戏目录"> 5.2 指定游戏目录</h3>
+<p>点击 <code>...</code> 按钮，会弹出浏览文件夹对话框，指定到新枫之谷游戏的目录路径</p>
+<p>如下图所示（这是小T同学自己的游戏目录安装地方，并不是您的电脑游戏所在目录）</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/maplestory-directory.webp" alt="新枫之谷目录路径" /></p>
+<p>MapleStory 目录下有：BlackCipher，blob_storage，GPUCache，locales，swiftshader 等目录</p>
+<p>那么这个 MapleStory 就是游戏目录路径啦！</p>
+<blockquote>
+<p>本来不想多说这一步的，实在是太多小伙伴游戏目录类似这样的：.../MapleStory/MapleStory/MapleStory.exe,然后他们分不出到底那个 MapleStory 才是正确的游戏目录</p>
+</blockquote>
+<h3 id="_5-3-extract-解压覆盖"> 5.3 Extract 解压覆盖</h3>
+<p>确保游戏目录没有错误，就开始点 Extract 按钮，解压覆盖吧！</p>
+<p>提示下图所示，就是解压到正确的游戏目录了，点：<code>Yes to All</code> 吧！</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/yes-to-all.webp" alt="点击 yes to all 覆盖旧版本文件" /></p>
+<h2 id="六、旧版本升级到最新版本"> 六、旧版本升级到最新版本</h2>
+<p>如果您电脑里之前有新枫之谷，那么您可以前往游戏目录，右键游戏的启动程序：<code>MapleStory.exe</code>，选择属性，查看一下 <code>详细信息</code> 里的产品版本，可以得知当前旧游戏的版本信息。</p>
+<p>再查看一下是否有对应的升级文件，如果有，就可以下载升级文件更新到最新版本。</p>
+<p>当然，更新到大版本之后，还是要检测一下当前大版本是否有出小版本更新，具体可以参考本文前面的内容：<code>四、下载小版本更新档文件</code></p>
+<div><p>注意</p>
+<p>此步骤仅适合原本电脑里有新枫之谷的玩家使用</p>
+</div>
+<p><code>v237</code> - <code>v239</code> 升级文件：</p>
+<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MaplePatch237to239.exe
+</code></pre>
+</div><p><code>v238</code> - <code>v239</code> 升级文件：</p>
+<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MaplePatch238to239.exe
+</code></pre>
+</div><p>建议右键以 <code>管理员身份运行</code> 升级程序，升级完之后，记得去下载当前版本的小版本更新档，并完成更新。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/run-the-update-package.webp" type="image/webp"/>
     </item>
     <item>
       <title>🎈 MapleStory 各服务器对比及新人建议入坑选择指南</title>
@@ -940,19 +1009,19 @@
 </div>
 <ul>
 <li>
-<p><a href="./download.html"><strong>1.游戏下载</strong>（包括大版本主程序和小版本更新档）</a></p>
+<p><a href="./download.html"><strong>1.游戏下载</strong></a>（包括大版本主程序和小版本更新档）</p>
 </li>
 <li>
-<p><a href="./account.html"><strong>2.账号注册</strong>（非常详细的注册教程，一定要进阶验证哦）</a></p>
+<p><a href="./account.html"><strong>2.账号注册</strong></a>（非常详细的注册教程，一定要进阶验证哦）</p>
 </li>
 <li>
-<p><a href="./start-game.html"><strong>3.启动游戏</strong>（多种方法启动游戏，让您放心畅玩）</a></p>
+<p><a href="./start-game.html"><strong>3.启动游戏</strong></a>（多种方法启动游戏，让您放心畅玩）</p>
 </li>
 <li>
-<p><a href="./gash.html"><strong>4.充值教程</strong>（教程里有不为新人所知晓省钱方法哦）</a></p>
+<p><a href="./gash.html"><strong>4.充值教程</strong></a>（教程里有不为新人所知晓省钱方法哦）</p>
 </li>
 <li>
-<p><a href="./unlock.html"><strong>5.解锁教程</strong>（锁号了不会解锁就来看看吧）</a></p>
+<p><a href="./unlock.html"><strong>5.解锁教程</strong></a>（锁号了不会解锁就来看看吧）</p>
 </li>
 <li>
 <p><a href="./type.html"><strong>6.解决打字是问号问题</strong></a></p>
