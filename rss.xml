@@ -6,15 +6,15 @@
     <link>https://xtikas.com/</link>
     <description>一个充满了新枫之谷探索成果的网站</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 06 Jan 2022 17:34:55 GMT</pubDate>
-    <lastBuildDate>Thu, 06 Jan 2022 17:34:55 GMT</lastBuildDate>
+    <pubDate>Sat, 08 Jan 2022 05:01:14 GMT</pubDate>
+    <lastBuildDate>Sat, 08 Jan 2022 05:01:14 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 𝒙𝑻𝒊𝒌𝒂𝒔</copyright>
     <category>知识</category>
     <category>吃瓜</category>
-    <category>工具</category>
     <category>新人教程</category>
+    <category>工具</category>
     <item>
       <title>多招教您防护自己的账号安全，让您不用担心盗号</title>
       <link>https://xtikas.com/anti-theft.html</link>
@@ -331,7 +331,30 @@
 <p>未来时间充足了，我会制作相关视频，让大家能通过视频更加直观感受到游戏的乐趣。</p>
 <p>一切的走向，都以纯内容为核心，让大家能有一个上佳的阅读体验！</p>
 <p>感谢以下小伙伴在网站刚建立前期的赞助：</p>
-<p>TODO: 待拉取最初的赞赏信息</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">打赏大佬名单</th>
+<th style="text-align:left"> </th>
+<th style="text-align:left"> </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">AZHI 68元</td>
+<td style="text-align:left">summer 5.20元</td>
+<td style="text-align:left">肆月旋律 8.88元</td>
+</tr>
+<tr>
+<td style="text-align:left">二彼 5.20元</td>
+<td style="text-align:left">溜溜 0.50元</td>
+<td style="text-align:left"> </td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>您可以随时联系 <code>小T同学</code> 以取回这笔打赏，并且不会删除此原有打赏记录。打赏已经关闭，目前不再接受新的打赏。</p>
+</blockquote>
 <h2 id="可供交流的渠道"> 可供交流的渠道</h2>
 <p>您是否有过这些困惑：</p>
 <ul>
@@ -458,7 +481,7 @@
 </ul>
 <p>套餐优惠价为：<b><font color="red">580</font></b> 元（省 50），大约用时 7 天。</p>
 <blockquote>
-<p>如果您已经拥有一个 200+ 的大号，或者当时有 10-200 的燃烧活动，那么套餐优惠价为所有总和再减少 30元</p>
+<p>如果您已经拥有一个 200+ 的大号，或者当时有 10-200 的燃烧活动，那么套餐优惠价为所有总和再减少相对应的价格</p>
 </blockquote>
 <h3 id="🟣-套餐二-6000-联盟"> 🟣 套餐二：6000 联盟</h3>
 <p>6000 联盟会给整体带来非常可观的属性加成，我们的 6000 联盟套餐可能会和别人的不一样，主要是我们站在您的角度思考衡量，采用的是：5 个 200 等级的号（包括主号在内），加上 35 个 140 等级的号组成。</p>
@@ -483,7 +506,7 @@
 </ul>
 <p>套餐优惠价为：<b><font color="red">2000</font></b> 元（省 150，还送 100 等级），大约用时 20-25 天。</p>
 <blockquote>
-<p>如果您已经拥有一个 200+ 的大号，或者当时有 10-200 的燃烧活动，那么套餐优惠价为所有总和再减少对应的价格</p>
+<p>如果您已经拥有一个 200+ 的大号，或者当时有 10-200 的燃烧活动，那么套餐优惠价为所有总和再减少相对应的价格</p>
 </blockquote>
 <h3 id="🟤-套餐三-8000-联盟"> 🟤 套餐三：8000 联盟</h3>
 <p>8000 联盟就简单些了，直接 40 个 200 等级的职业就搞定。</p>
@@ -526,348 +549,6 @@
 <p>谢谢您的来访，<code>小T同学</code>更希望本站的其他内容能给您带来帮助！</p>
 <p>感谢感谢，不再多说了，拜拜~</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>小T同学:xTikas</title>
-      <link>https://xtikas.com/</link>
-      <guid>https://xtikas.com/</guid>
-      <source url="https://xtikas.com/rss.xml">小T同学:xTikas</source>
-    </item>
-    <item>
-      <title>缤放登录器-乐豆第三方客户端：使用教程</title>
-      <link>https://xtikas.com/pungin-beanfun.html</link>
-      <guid isPermaLink="false">/pungin-beanfun.html</guid>
-      <source url="https://xtikas.com/rss.xml">缤放登录器-乐豆第三方客户端：使用教程</source>
-      <description>本文详细介绍 Pungin 开源的乐豆第三方客户端 Beanfun 登录器的实用教程，包括下载、使用、相关问题解决，可以说得上是第三方缤放登录器使用教程的完全篇！</description>
-      <category>工具</category>
-      <content:encoded><![CDATA[<p>您是否有过以下困扰：</p>
-<ul>
-<li>网页启动过程过于繁琐</li>
-<li>每次掉线或者切换账号时，都需要漫长的等待</li>
-<li>只想使用临时一次性密码让朋友们登入自己的账号，而不是告知完整的账号密码</li>
-</ul>
-<p>如果您想解决上面的这些困扰，那么，本文介绍的 <code>第三方缤放登录器</code> 非常适合您。</p>
-<p>它是由 <code>@Pungin</code> 开发，现在已经开源，并且使用和官方缤放不同的图标，非常容易区分。</p>
-<p>作者也为它启用了全新的名称：<strong>繽放 - 樂豆第三方客戶端</strong></p>
-<div><p>声明</p>
-<p>为了让大家更容易理解非官方的缤放，本文链接使用了开发者名称 <code>Pungin</code> 作为区分，同时也采用旧的命名：<code>第三方缤放登录器</code> 称呼 <strong>繽放 - 樂豆第三方客戶端</strong></p>
-<p>本站引用 <code>Pungin</code> 并非传达 <strong>繽放 - 樂豆第三方客戶端</strong> 是本站所独有的，或者传达相关暗示性归属于 <code>Tikas</code></p>
-<p>本文只进行使用介绍，<strong>繽放 - 樂豆第三方客戶端</strong> 所有权归属于 <code>Pungin</code> 及参与开发者所有。</p>
-</div>
-<h2 id="下载"> 下载</h2>
-<p><strong>繽放 - 樂豆第三方客戶端</strong> 是 @Pungin 在 <code>Github</code> 开源的项目，您可以前往作者的 Github 仓库找到此项目，并且能下载到相关发布版本：</p>
-<blockquote>
-<p><a href="https://github.com/pungin/Beanfun/releases" target="_blank" rel="noopener noreferrer"><strong>第三方缤放 Github 下载页面</strong></a><i>Not supported content</i></p>
-</blockquote>
-<div><p>警告</p>
-<p>不建议在其它途径下载此软件（如：E-mail、相关社交软件的人、群，或者其它网站提供的自己下载链接等），毕竟和自己的账号财产相关，安全才是最重要！</p>
-<details><summary>这不是玩笑！点我展开查看木马传播途径</summary>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/trojan-mail.webp" alt="非法木马通过 E-mail 传播" /><br>
-<img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/trojan.webp" alt="被植入盗号木马程序的缤放登录器" /></p>
-</details>
-</div>
-<p>在第三方缤放 Github 下载页面的内容最上方，一般就是最新版本，直接点击 “<strong>Assets</strong>” 里的相关链接就可以下载了。</p>
-<p>如果无法下载，可以尝试使用相关跳转下载，具体可以自己网络搜索方法。</p>
-<p>下载回来，由于涉及到资金安全，建议大家下载回来的缤放登录器，先进行安全检测。</p>
-<blockquote>
-<p>在线查杀：<a href="http://www.virscan.org/language/zh-cn/" target="_blank" rel="noopener noreferrer">中文 virscan</a> | <a href="https://www.virustotal.com/gui/home/upload" target="_blank" rel="noopener noreferrer">国际英文 virustotal</a> 结果仅供参考！</p>
-</blockquote>
-<h2 id="使用"> 使用</h2>
-<p>由于第三方缤放登录器采用 <code>C#</code> 开发，如果您的电脑里没有 <code>.NET Framework Runtime</code> ，您会无法正常使用此软件。</p>
-<p>如果您的 <code>.NET Framework Runtime</code> 版本过低，也会无法正常使用。</p>
-<p>推荐使用 v4.8 + 版本，并不是说一定要安装，<b><font color="red">如果您的电脑能正常运行程序，请跳过这一步！</font></b></p>
-<blockquote>
-<p>前往：<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" rel="noopener noreferrer">微软 .NET Framework 下载页面</a>（这里以新版本 4.8 版本为例子，选择对应版本之后，点 <code>Download .NET Framework 4.8 Runtime</code> 下载）</p>
-</blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/download-microsoft-net-framework.webp" alt="下载微软 .NET Framework 4.8" /></p>
-<blockquote>
-<p>如果已经使用较新版本的 .Net 运行库，依旧提示错误或者未响应等情况，您需要清理 .Net 运行库的缓存，具体可以使用 <code>Dism++</code> 工具来清理。前往：<a href="https://www.chuyu.me/zh-Hans/" target="_blank" rel="noopener noreferrer">Dism++ 官网下载</a></p>
-</blockquote>
-<p>不出意外，您能看到登录器首次运行的区域选择提示！</p>
-<h2 id="内置实用的小工具"> 内置实用的小工具</h2>
-<p>登录缤放之后，在主界面，可以找到一个 “工具” 按钮，里面有一些很实用的小工具哦！</p>
-<p>其中有最实用的 <strong>装备卷轴星力计算器</strong>，我们一起来看看怎么使用吧！</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/star-force-calculator.webp" alt="缤放的装备卷轴星力计算器" /></p>
-<p>使用方法是：选择对应的装备部位，对应的等级，在 A 和 B 里填写装备自身的属性，就可以啦。</p>
-<p>其中：</p>
-<ul>
-<li>A、装备当前星力强化等级（就是多少星的装备啦）</li>
-<li>B、是装备原本白色的属性值，这个一定要填写哦，不然像武器类他的攻击加成是按装备自身多少攻击来算的。</li>
-<li>C、这是星火属性值，写上去，如果最终上卷正确，就能在左边的总值和装备对得上，不填写这个就会少星火属性。</li>
-</ul>
-<p>也许最终加上卷的值，装备的属性会比计算器的多一些攻击，这是因为天然白板装时，就有浮动的属性加成。</p>
-<blockquote>
-<p>注：如果是使用荣耀卷轴，数值多数会不准，一般都是大于黑卷，㘬值有小数。</p>
-</blockquote>
-<h2 id="😊-相关问题及解决方法"> 😊 相关问题及解决方法</h2>
-<p>这里汇集了多数的问题及解决方法，如果您遇到的问题并不在这里，请联系小T，取得相关帮助。（我不会向您发送任何文件，请放心）</p>
-<h3 id="_1️⃣-缤放登录器启动类问题"> 1️⃣ 缤放登录器启动类问题</h3>
-<h4 id="a-启动第三方缤放登录器提示已停止工作"> <strong>A:) 启动第三方缤放登录器提示已停止工作</strong></h4>
-<p>由于第三方缤放登录器使用 <code>C#</code> 语言开发，如果您的电脑没有 <code>.NET</code> 运行库或者运行库版本比较旧，就会出现这情况。</p>
-<p>解决方法可以参考本文的第二章节：<a href="/pungin-beanfun.html#使用"><strong>使用</strong></a></p>
-<h4 id="b-第一次正常-之后每次启动缤放都卡死闪退"> <strong>B:) 第一次正常，之后每次启动缤放都卡死闪退</strong></h4>
-<p>请不要勾选 <code>自动登入</code> ，由于 <code>@Pungin</code> 对 3.x 之后的版本进行登录重构，导致自动登入非常容易发生缤放登录器卡死、闪退等现象。</p>
-<p>如果您已经勾选 <code>自动登入</code> 并发生了卡死闪退等现象，您可以在登录中界面狂点 <code>取消</code></p>
-<h3 id="_2️⃣-账号登录类问题-非游戏"> 2️⃣ 账号登录类问题（非游戏）</h3>
-<h4 id="a-港号登录一定要安装-beanfun-官方外挂程式"> <strong>A:) 港号登录一定要安装 beanfun 官方外挂程式</strong></h4>
-<p>实话，我真想吐槽官方为这个程序起的名字：<strong>beanfun 官方外挂程式</strong></p>
-<p>取名为：<code>Beanfun 平台服务程序</code> 难道不更高大上吗？不仅好听，还专业。吐槽完毕！</p>
-<blockquote>
-<p><a href="http://hk.beanfun.com/locales/HK/contents/beanfun_block/help/plugin_install.html" target="_blank" rel="noopener noreferrer">beanfun 官方外挂程式下载页面</a></p>
-</blockquote>
-<p>安装完 beanfun 官方外挂程式，港号就可以正常登入了。</p>
-<h4 id="b-缤放无法登录账号-3-0-之前的旧缤放版本"> <strong>B:) 缤放无法登录账号（3.0 之前的旧缤放版本）</strong></h4>
-<p>如果你的缤放登录器是 2.9.9 版本之前的，那么提示无法登录账号，就是没有安装橘子官方的 beanfun 平台程序导致的</p>
-<p>如果是 3.0 版本之后的，那么你可以看看是否网络问题导致的，有时 <strong>网络故障</strong> 就无法登录了，请换加速器看看。</p>
-<h4 id="c-提示-无法加载进行反序列化所需的类型-beanfun-records"> <strong>C:) 提示:无法加载进行反序列化所需的类型 beanfun records</strong></h4>
-<p>从 3.0.1 版本开始，Pungin 作者重新更新了本地记录文档，旧版解析新版本的本地记录文档就会提示 “无法进行反序列化”</p>
-<p>请重新下载新版本的第三方缤放登录器就可以解决这个问题。</p>
-<div><p>不建议删除账号记录文件以启动旧版本为目的的操作</p>
-<p><em>删除缤放账号记录文件方法:</em></p>
-<p>按 “Win + R” 键打开运行，在运行里输入：%appdata%</p>
-<p>在 “AppData\Roaming” 里删除 “Beanfun” 目录就可以。</p>
-<p><strong>如非必要，请不要删除此文档，不然，您所记录的所有账号密码将清空！</strong></p>
-</div>
-<h4 id="d-检查到档案数位签章错误-请洽客服人员"> <strong>D:) 检查到档案数位签章错误，请洽客服人员</strong></h4>
-<p>出现此提示，一般都是港号，这是由于 <strong>beanfun 官方外挂程式</strong> 未能正常加载，建议重新安装就可以解决此问题</p>
-<blockquote>
-<p>前往 <a href="http://hk.beanfun.com/locales/HK/contents/beanfun_block/help/plugin_install.html" target="_blank" rel="noopener noreferrer">beanfun 官方外挂程式下载页面</a>，下载并安装 beanfun 官方外挂程式，即可。</p>
-</blockquote>
-<h4 id="e-台号一直提示登入失败-未找到-eventvalidation-讯息-请检查网络连接"> <strong>E:) 台号一直提示登入失败，未找到 Eventvalidation 讯息，请检查网络连接</strong></h4>
-<p>由于台号的网页登入页面改版了，您需要下载新版本的第三方缤放登录器，才能正常登入。</p>
-<p>如果您的缤放登录器版本低于 v3.1.5 版本，您是无法正常登入台号，请下载新版本。</p>
-<h4 id="f-请点击我不是机器人"> <strong>F:) 请点击我不是机器人</strong></h4>
-<p>这是由于加速器的同一个节点太多人使用，导致需要进行人机验证，这时，就需要您进行更换节点试试看了，或者更换其他加速器。</p>
-<h3 id="_3️⃣-游戏启动类问题"> 3️⃣ 游戏启动类问题</h3>
-<h4 id="a-指定游戏目录-才能用缤放启动游戏"> <strong>A:) 指定游戏目录，才能用缤放启动游戏</strong></h4>
-<p>如果您是通过第三方缤放登录器来启动游戏，您需要先为 <code>设定</code> 里指定一下游戏目录。</p>
-<p><code>设定</code> 可以从主界面的右上角里找到按钮。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/beanfun-setting.webp" alt="缤放设定界面" /></p>
-<p>其中选中 “传统登入模式”，就会有 “获取密码”，这样就能获取动态登入游戏了。</p>
-<div><p>提示</p>
-<p>如果您是新人，建议不要选中 “传统登入模式”，这样点启动游戏就会直接登录您的游戏账号。</p>
-</div>
-<h4 id="b-缤放启动游戏后-右下角只提示-ngs-就没了"> <strong>B:) 缤放启动游戏后，右下角只提示 NGS，就没了</strong></h4>
-<blockquote>
-<p>启动游戏之后，跳过了 play 界面，并且右下角的 NGS 安全图标也提示了，之后，并没有出现游戏界面</p>
-</blockquote>
-<p>这情况往往是您的游戏安装目录路径带有中文导致的！</p>
-<p>请把游戏的父级目录里中文改成非中文，或把新枫之谷（台服冒险岛），拷贝到别的地方。</p>
-<p>也许您不能理解 <code>路径</code> 这一词，没事，我来举个例子：</p>
-<ul>
-<li>✅ C:\Program Files\MapleStory\MapleStory.exe</li>
-<li>❌ C:\Program Files\新枫之谷\MapleStory.exe</li>
-</ul>
-<p>上面两个路径，前面一个为正确示例，后者带有中文，就是错误的路径示例。</p>
-<p>当然，有时候 NGS 进程卡住了，也会出现这种情况，如果您的游戏路径并有没中文，请考虑结束 NGS 进程，以方便正常启动游戏。（结束 NGS 进程，可能需要再次启动游戏）</p>
-<h4 id="c-来自缤放的警告-自动更新可能破坏程序-已被阻止"> <strong>C:) 来自缤放的警告：自动更新可能破坏程序，已被阻止</strong></h4>
-<p>这是由于第三方缤放登录器默认是阻止自动更新的！</p>
-<p>这是由于我们都是使用加速器来玩新枫之谷的，在线更新很容易发生数据丢失（就是丢包现象，平时玩的时候会卡顿）。</p>
-<p>出现这个提示，意味着有新的游戏版本，建议去官网查看，或者来本站的下载文章查看。</p>
-<p><a href="https://maplestory.beanfun.com/download" target="_blank" rel="noopener noreferrer">新枫之谷官网下载页面</a> | <a href="./../xinren/download.html">小T撰写的游戏下载文章</a></p>
-<h4 id="d-启动游戏之后-第三方缤放登录器就卡住"> <strong>D:) 启动游戏之后，第三方缤放登录器就卡住</strong></h4>
-<p>这个现象一般出现在 v3.x 版本，这是当时相关代码没优化好导致的，简单的解决方法就是使用新版本。</p>
-<p>当然，您也可以使用 LE 来启动，配合第三方缤放登录器只获取密码来登入游戏，但是这个方法多了一些步骤，相对来说没有那么便捷，不推荐。</p>
-<h4 id="e-非繁体语系系统启动游戏失败-提示-c00700c1"> <strong>E:) 非繁体语系系统启动游戏失败，提示：C00700C1</strong></h4>
-<p>有三种原因导致这情况出现：</p>
-<ul>
-<li>1、使用了自动更新，导致游戏文件被损坏，请重新安装更新，或者重新安装一次游戏，再或者找朋友另外复制一个游戏主程序过来试试（建议大家别用自动更新）</li>
-<li>2、更改了语言区域导致区域异常，也会提示这个，解决办法就是简体语言和繁体语言换一换来尝试看看了</li>
-<li>3、被安全软件拦截了 LE 模块，比如使用了 3** 相关安全软件。建议到 msdn itellyou 里下载镜像重装系统！</li>
-</ul>
-<h4 id="f-启动游戏提示错误码-c0000135"> <strong>F:) 启动游戏提示错误码：C0000135</strong></h4>
-<p>这可能是第三方缤放登录器的 LE 模式被相关安全软件拦截，或者你的系统本身之前有修改过其他语言区域。</p>
-<p>解决办法是修改回简体语言环境，或者改为繁体语言环境。</p>
-<h4 id="g-启动失败-请尝试从桌面捷径启动游戏。若您系统为非繁体语係系统-可能是-locale-emulator-元件不支援您的系统。"> <strong>G:) 启动失败，请尝试从桌面捷径启动游戏。若您系统为非繁体语係系统，可能是 Locale Emulator 元件不支援您的系统。</strong></h4>
-<p>这是由于您的缤放目录下，缺少 LocaleEmulator.dll 和 LoaderDll.dll 文件导致的。</p>
-<p>这多发生在 v3.x 以下版本，主要是第三方缤放登录器并没有把 LE 模块释放到系统目录，只读取登录器同级目录。</p>
-<p>新版本已经不存在这个提示，如果还有，请检查一下是否有安全软件拦截了登录器释放 LE 的 DLL 文件到系统。</p>
-<h3 id="_4️⃣-游戏账号登入类问题"> 4️⃣ 游戏账号登入类问题</h3>
-<p>这里的问题，多数是网络的原因，如果您更换节点不能解决，那么请更换一下加速器，或许多数问题就会得到解决。</p>
-<h4 id="a-登入失败-未找到-eventvalidation-讯息-请检查网络连接"> <strong>A:) 登入失败，未找到 Eventvalidation 讯息，请检查网络连接</strong></h4>
-<p>如果出现这情况，请留意一下账号安全情况！</p>
-<p>登入状态除非很久，或者更换过节点等操作，正常情况下是：不会执行退出账号行为的！</p>
-<p>那么，您刚登录账号不久，再获取密码就提示这个，应该是有人登录过你的账号了！</p>
-<p>具体登录记录可以从：<strong>会员中心-查询记录-大事纪-beanfun!主账号</strong> 查询账号登录情况。</p>
-<blockquote>
-<p>细心的朋友，也会发现前面台号账号登录缤放时也有此提示，如果您不是此情况，请参考前面答案。</p>
-</blockquote>
-<div><p>提示</p>
-<p>偶尔港号服务器出问题也会出现这个提示（港号的服务器貌似经常出问题，真服了）</p>
-</div>
-<h4 id="b-没有添加账号-启动游戏会提示-您还未选择需要启动游戏的账号"> <strong>B:) 没有添加账号，启动游戏会提示：您还未选择需要启动游戏的账号</strong></h4>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/no-account-selected.webp" alt="缤放启动游戏时提示你还未选择启动游戏的账号" /></p>
-<p>出现此情况一般是以下几种：</p>
-<ul>
-<li>1、刚刚注册的账号</li>
-<li>2、加速器问题</li>
-<li>3、极少见服务器 GG 了导致的现象（其中港号相对来说比较常见）</li>
-</ul>
-<CodeGroup>
-<CodeGroupItem title="1、刚刚注册的账号">
-<div><p>解决方法</p>
-<p>1.在 <code>第三方缤放登录器</code> 主界面右下角，点击 “新增账号”</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/new-account.webp" alt="在第三方缤放登录器里新增账号" /></p>
-<p>2.在 “使用者名称” 里输入注册账号时填写的昵称，或者随便填一个。（其实随便填的发生过 BUG，这个 BUG 应该不会再出现了。）</p>
-<blockquote>
-<p>如果您无法正常新增账号，您需要在浏览器里网页在线增加！（港号请使用 IE 浏览器）</p>
-</blockquote>
-</div>
-</CodeGroupItem>
-<CodeGroupItem title="2、加速器问题" active>
-<div><p>解决方法</p>
-<p>可以尝试更换节点，或者使用别的加速器尝试（许多加速器都是永久免费的，由于并没有收到广告费，在此就不列举了）</p>
-</div>
-</CodeGroupItem>
-<CodeGroupItem title="3、服务器 GG 了" active>
-<div><p>解决方法</p>
-<p>等吧，我也没办法，橘子又不请我维护，我能怎么办，他们应该不会输入下面命令吧！</p>
-<div><pre><code><span>sudo</span> <span>rm</span> -rf /
-</code></pre>
-<div><span>1</span><br></div></div></div>
-</CodeGroupItem>
-</CodeGroup>
-<h4 id="c-无法获取密码"> <strong>C:) 无法获取密码</strong></h4>
-<p>有多种原因会导致这种情况出现：</p>
-<ul>
-<li>1、港号未安装官方 beanfun 外挂程序，或未连接上程序（未连接上请考虑是否有安全软件拦截，或者前往 <a href="http://hk.beanfun.com/locales/HK/contents/beanfun_block/help/plugin_install.html" target="_blank" rel="noopener noreferrer">beanfun 官方外挂程式下载页面</a>，重新安装一下）。</li>
-<li>2、加速器导致，或网络问题。有些加速器是进程式加速，而多数是 IP 式加速，可以考虑更换其他加速器尝试。IP 式加速器，还能有效避免锁号问题。</li>
-<li>3、特殊情况，如：2020年5月底因大量工作室涌入导致暂时关闭新号密码获取。这是短期的，等这情况过后，就会恢复。</li>
-</ul>
-<h4 id="d-获取密码失败-服务账号不存在"> <strong>D:) 获取密码失败，服务账号不存在</strong></h4>
-<p>之前就有多个萌新深夜去注册账号，无论等待多久都提示：“服务账号不存在”，但是查询账号信息都显示状态正常。</p>
-<p>经过多位小伙伴提供的注册时间可以得出：深夜后注册的账号等于空号！这时候您就需要通过 “客服中心” 联系客服，帮忙解决此问题</p>
-<p>请大家别在深夜去注册账号。</p>
-<p>另外，每次维护时注册的账号也会出现这情况，维护时间多是在星期三，这是由于数据同步不到游戏数据库，这情况就需要等待一天了。</p>
-<blockquote>
-<p>要是等了一天多，还是不行，就需要 <a href="./../xinren/unlock.html">联系客服进行账号异常处理</a><br>
-著名服务器卡爆事件也会导致此类情况发生<br>
-2020年5月底大量工作室进 TMS，导致服务器卡爆，官方直接把月底几天申请的新号暂停密码取得服务，并且加强 GM 在线排查。这时候申请的账号就会获取不到密码。<br>
-后续会不会再次出现这种情况也很难说，好在这种特殊情况只维持几天。</p>
-</blockquote>
-<h4 id="e-锁号误封或者永久封号的账号无法进入游戏"> <strong>E:) 锁号误封或者永久封号的账号无法进入游戏</strong></h4>
-<p>如果账号显示灰色，要么是锁号了，要么是封号了。</p>
-<p>请查看原因，可以点 “会员中心” - “查询记录” - “大事件” 里查看。</p>
-<blockquote>
-<p>之前大事件不能查询当天的，最早是昨天的。现在不知道是否可以查询当天的了。</p>
-</blockquote>
-<p><strong>事件显示：帳號鎖定(終止遊戲契約(永久鎖定);0)</strong></p>
-<p>出现这情况，会有两种情况，一种是使用非法程序导致永久封号，如：<strong>压键盘</strong>、<strong>使用鼠标连点</strong>、<strong>外挂程序</strong>、<strong>购买工作室游戏币</strong>，等等。</p>
-<p>如果不是上面所说的情况，那么应该是误封了，请申请解锁。如 2020年3月份 有名的大面积永久误封斗燃猫号，只要申请，说明原因，就会得到解锁。</p>
-<h4 id="f-其他因网络错误导致的提示"> <strong>F:) 其他因网络错误导致的提示</strong></h4>
-<p>这些情况都是网络问题导致的，一般换个节点或者更换其他加速器就能解决。</p>
-<p>这类错误提示如：</p>
-<ul>
-<li>基础连接已经关闭：发送时发生错误</li>
-</ul>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/connection-closed.webp" alt="基础连接已经关闭" /></p>
-<p>以及其他未列举的提示....</p>
-<h2 id="多账号管理"> 多账号管理</h2>
-<p>在 <code>第三方缤放登录器</code> 里可以很容易维护多账号，您可以通过登录界面的 <code>管理账号</code> （v3.x 以下版本），或者通过设定里的 <code>管理账号</code> （v4.x 以上版本），进行多账号管理。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/old-manage-account.webp" alt="旧缤放登录器管理账号" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/new-manage-account.webp" alt="新缤放登录器管理账号" /></p>
-<p>对指定账号进行设置，可以为账号设置一个备注信息。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/change-account-information.webp" alt="对多账号进行备注信息变更" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/confirm-account-notes.webp" alt="修改备注信息" /></p>
-<h2 id="赞助开发者-让缤放未来更加美好"> 赞助开发者，让缤放未来更加美好</h2>
-<p>缤放 - 乐豆第三方客户端 是 <code>Pungin</code> 在 Github 开源的一个项目。</p>
-<p>如果您有条件，请赞助一下，让开源项目能长久发展下去！</p>
-<p>赞助入口：</p>
-<p><strong>第一步</strong>：在 <code>缤放 - 乐豆第三方客户端</code> 的右上角找到 <code>关于</code> 按钮</p>
-<p><strong>第二步</strong>：在 <code>关于</code> 界面的右下角找到 <code>捐赠</code> 入口</p>
-<div><p>除了上面的赞助方法，还有参与开发的赞助方法。</p>
-<p>如果您也是使用 <code>C#</code> 开发程序，不妨一起参与开发，这也是一种赞助方式。</p>
-<p>我始终相信，每个人的精力是有限的，如果您有空余的时间，参与项目的开源开发，能让作者有更多时间去做其他事。</p>
-</div>
-<p>感谢每一个为开源项目做出贡献的人！</p>
-<p>包括不限于：使用支持、赞助支持、开发支持、反馈支持、新功能建议支持等等</p>
-<p>对，您没看错，贡献方式不仅仅是 <code>赞助</code> 和 <code>参与开发</code>，您在使用也是贡献，您能反馈问题也是贡献，还能提议相关功能也是一种贡献，甚至去点颗星也是一种贡献方式。</p>
-<p>请不要认为支持 <code>缤放 - 乐豆第三方客户端</code> 是件难事，您的每一小步贡献，都是支持的一大步！</p>
-<p><code>Tikas</code> 在这替所有开源作者说声：</p>
-<p>谢谢您的支持！</p>
-]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/trojan-mail.webp" type="image/webp"/>
-    </item>
-    <item>
-      <title>☁️ 新枫之谷（台服冒险岛）游戏下载</title>
-      <link>https://xtikas.com/download.html</link>
-      <guid isPermaLink="false">/download.html</guid>
-      <source url="https://xtikas.com/rss.xml">☁️ 新枫之谷（台服冒险岛）游戏下载</source>
-      <description>提供新枫之谷（台服冒险岛）最新版本的官方游戏下载地址，以及最新的更新档补丁，还有旧版本升级到最新版本的更新补丁。</description>
-      <category>新人教程</category>
-      <content:encoded><![CDATA[<div><p>提示</p>
-<p>下载地址来自官方公开地址，只为方便无法正常访问官网的用户使用。</p>
-<p>如果您可以访问官网，建议您多多去官网，还能留意相关维护信息。</p>
-<div>
-<p><a href="https://maplestory.beanfun.com/download" target="_blank" rel="noopener noreferrer">新枫之谷官网下载页面</a></p>
-</div>
-</div>
-<h2 id="一、当前最新游戏版本"> 一、当前最新游戏版本</h2>
-<p>当前游戏最新版本为: <code>v239</code> 版本（同步更新于: 2021/12/01）</p>
-<p>目前还没有小版本更新档。</p>
-<h2 id="二、下载-v239-大版本游戏安装文件"> 二、下载 <code>v239</code> 大版本游戏安装文件</h2>
-<p><code>v239</code> 大版本安装文件:</p>
-<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MapleStoryV239/MapleStoryV239.zip
-</code></pre>
-</div><p>建议使用下载工具进行下载, 您将会得到一个 18.4 GB 左右大小的 <code>zip</code> 文件</p>
-<p>Windows OS 默认是支持 <code>zip</code> 文件解压操作的</p>
-<blockquote>
-<p>如果您的电脑无法对此文件进行解压, 您可以点此链接: <a href="https://www.7-zip.org/a/7z1900-x64.exe" target="_blank" rel="noopener noreferrer">下载安装 7-zip 软件</a></p>
-</blockquote>
-<h2 id="三、安装-v239-大版本游戏"> 三、安装 <code>v239</code> 大版本游戏</h2>
-<p>由于台服使用了繁体编码，在简体系统中运行会显示乱码，但是，并不影响整个游戏的安装</p>
-<p>运行解压出来的安装主程序即可进行安装 (很容易猜出<code>下一步</code>按钮)</p>
-<div><p>安装目录一定不能有中文</p>
-<p>如果游戏的目录路径带有中文，您将无法正常启动游戏</p>
-</div>
-<details><summary>安装过程出现异常错误提示（乱码显示）</summary>
-<p>如果您安装过程中一直会提示相关对话框，不能顺利进行安装，您下载回来的游戏文档可能并没有下全。</p>
-<p>请检查一下分割包 bin 的文件大小是否都一致：</p>
-<p>一般前面的几个 bin 文件，大小都是一样的，只有最后一个 bin 文件才会小些。</p>
-<p>您可以尝试修复一下下载回来的 <code>zip</code> 文件, 如果修复后还是会提示, 建议您重新下载游戏文件</p>
-</details>
-<h2 id="四、下载小版本更新档文件"> 四、下载小版本更新档文件</h2>
-<p>当前没有出小版本更新档文件，即 <code>v239</code> 是最新版本。</p>
-<h2 id="五、安装小版本更新档文件"> 五、安装小版本更新档文件</h2>
-<p>小版本更新档文件多数是 <code>7z</code> 文档来的, 您可以很直观通过文件的图标识别它</p>
-<p>建议右键以 <code>管理员身份运行</code> 更新包程序</p>
-<div><p>提示</p>
-<p>当前 <code>v239</code> 是最新版本，请大家跳过这一步。</p>
-</div>
-<h3 id="_5-1-运行小版本更新档程序"> 5.1 运行小版本更新档程序</h3>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/run-the-update-package.webp" alt="运行新枫之谷手动游戏更新包" /></p>
-<p>从上图可以看出，手动更新包运行时，获取的目录路径是当前的。</p>
-<p>可以把手动更新包拷贝到游戏目录内运行的哦！</p>
-<p>为了减少游戏目录所占用空间过大，推荐把更新包存放在其他地方。</p>
-<h3 id="_5-2-指定游戏目录"> 5.2 指定游戏目录</h3>
-<p>点击 <code>...</code> 按钮，会弹出浏览文件夹对话框，指定到新枫之谷游戏的目录路径</p>
-<p>如下图所示（这是小T同学自己的游戏目录安装地方，并不是您的电脑游戏所在目录）</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/maplestory-directory.webp" alt="新枫之谷目录路径" /></p>
-<p>MapleStory 目录下有：BlackCipher，blob_storage，GPUCache，locales，swiftshader 等目录</p>
-<p>那么这个 MapleStory 就是游戏目录路径啦！</p>
-<blockquote>
-<p>本来不想多说这一步的，实在是太多小伙伴游戏目录类似这样的：.../MapleStory/MapleStory/MapleStory.exe,然后他们分不出到底那个 MapleStory 才是正确的游戏目录</p>
-</blockquote>
-<h3 id="_5-3-extract-解压覆盖"> 5.3 Extract 解压覆盖</h3>
-<p>确保游戏目录没有错误，就开始点 Extract 按钮，解压覆盖吧！</p>
-<p>提示下图所示，就是解压到正确的游戏目录了，点：<code>Yes to All</code> 吧！</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/yes-to-all.webp" alt="点击 yes to all 覆盖旧版本文件" /></p>
-<h2 id="六、旧版本升级到最新版本"> 六、旧版本升级到最新版本</h2>
-<p>如果您电脑里之前有新枫之谷，那么您可以前往游戏目录，右键游戏的启动程序：<code>MapleStory.exe</code>，选择属性，查看一下 <code>详细信息</code> 里的产品版本，可以得知当前旧游戏的版本信息。</p>
-<p>再查看一下是否有对应的升级文件，如果有，就可以下载升级文件更新到最新版本。</p>
-<p>当然，更新到大版本之后，还是要检测一下当前大版本是否有出小版本更新，具体可以参考本文前面的内容：<code>四、下载小版本更新档文件</code></p>
-<div><p>注意</p>
-<p>此步骤仅适合原本电脑里有新枫之谷的玩家使用</p>
-</div>
-<p><code>v237</code> - <code>v239</code> 升级文件：</p>
-<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MaplePatch237to239.exe
-</code></pre>
-</div><p><code>v238</code> - <code>v239</code> 升级文件：</p>
-<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MaplePatch238to239.exe
-</code></pre>
-</div><p>建议右键以 <code>管理员身份运行</code> 升级程序，升级完之后，记得去下载当前版本的小版本更新档，并完成更新。</p>
-]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/run-the-update-package.webp" type="image/webp"/>
     </item>
     <item>
       <title>🆔 新枫之谷（台服冒险岛）账号注册</title>
@@ -1056,7 +737,7 @@
 </blockquote>
 <p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/download-microsoft-net-framework.webp" alt="下载微软 .NET Framework 4.8" /></p>
 <blockquote>
-<p>如果已经使用最新版本的 .Net 运行库，依旧提示错误或者未响应等情况，您需要清理 .Net 运行库的缓存，具体可以使用 <code>Dism++</code> 工具来清理。前往：<a href="https://www.chuyu.me/zh-Hans/" target="_blank" rel="noopener noreferrer">Dism++ 官网下载</a></p>
+<p>如果已经使用最新版本的 .Net 运行库，依旧提示错误或者未响应等情况，您需要清理 .Net 运行库的缓存，具体可以使用 <code>Dism++</code> 工具来清理。前往：<a href="https://github.com/Chuyu-Team/Dism-Multi-language/releases" target="_blank" rel="noopener noreferrer">Dism++ 官方 Github 下载</a></p>
 </blockquote>
 </details>
 <p>首次启动缤放时，如果有下图提示，请选择 香港（hongkong）</p>
@@ -1064,7 +745,8 @@
 <p>如果没有此提示（不同版本，可能有的并不会提示这个），你应该找找当前界面是否有 <code>HK</code> 或者 <code>TW</code>，以方便区分当前是要登录的 <code>港号</code> 还是 <code>台号</code>。</p>
 <p>登录之后，点击 <strong>會員中心</strong>，一般是在 “客服中心” 左边那个。</p>
 <blockquote>
-<p>只需要记住密码就可以，请不要选中自动登录！这会很容易导致各种卡死！！！</p>
+<p>只需要记住密码就可以，请不要选中自动登录！这会很容易导致各种卡死！！！<br>
+更多第三方缤放登录器使用教程可以查阅：<a href="/pungin-beanfun.html">缤放登录器-乐豆第三方客户端：使用教程</a></p>
 </blockquote>
 </div>
 </CodeGroupItem>
@@ -1091,6 +773,512 @@
 </div>
 ]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/update-file.webp" type="image/webp"/>
+    </item>
+    <item>
+      <title>小T同学:xTikas</title>
+      <link>https://xtikas.com/</link>
+      <guid>https://xtikas.com/</guid>
+      <source url="https://xtikas.com/rss.xml">小T同学:xTikas</source>
+    </item>
+    <item>
+      <title>缤放登录器-乐豆第三方客户端：使用教程</title>
+      <link>https://xtikas.com/pungin-beanfun.html</link>
+      <guid isPermaLink="false">/pungin-beanfun.html</guid>
+      <source url="https://xtikas.com/rss.xml">缤放登录器-乐豆第三方客户端：使用教程</source>
+      <description>本文详细介绍 Pungin 开源的乐豆第三方客户端 Beanfun 登录器的实用教程，包括下载、使用、相关问题解决，可以说得上是第三方缤放登录器使用教程的完全篇！</description>
+      <category>工具</category>
+      <content:encoded><![CDATA[<p>您是否有过以下困扰：</p>
+<ul>
+<li>网页启动过程过于繁琐</li>
+<li>每次掉线或者切换账号时，都需要漫长的等待</li>
+<li>只想使用临时一次性密码让朋友们登入自己的账号，而不是告知完整的账号密码</li>
+</ul>
+<p>如果您想解决上面的这些困扰，那么，本文介绍的 <code>第三方缤放登录器</code> 非常适合您。</p>
+<p>它是由 <code>@Pungin</code> 开发，现在已经开源，并且使用和官方缤放不同的图标，非常容易区分。</p>
+<p>作者也为它启用了全新的名称：<strong>繽放 - 樂豆第三方客戶端</strong></p>
+<div><p>声明</p>
+<p>为了让大家更容易理解非官方的缤放，本文链接使用了开发者名称 <code>Pungin</code> 作为区分，同时也采用旧的命名：<code>第三方缤放登录器</code> 称呼 <strong>繽放 - 樂豆第三方客戶端</strong></p>
+<p>本站引用 <code>Pungin</code> 并非传达 <strong>繽放 - 樂豆第三方客戶端</strong> 是本站所独有的，或者传达相关暗示性归属于 <code>Tikas</code></p>
+<p>本文只进行使用介绍，<strong>繽放 - 樂豆第三方客戶端</strong> 所有权归属于 <code>Pungin</code> 及参与开发者所有。</p>
+</div>
+<h2 id="下载"> 下载</h2>
+<p><strong>繽放 - 樂豆第三方客戶端</strong> 是 @Pungin 在 <code>Github</code> 开源的项目，您可以前往作者的 Github 仓库找到此项目，并且能下载到相关发布版本：</p>
+<blockquote>
+<p><a href="https://github.com/pungin/Beanfun/releases" target="_blank" rel="noopener noreferrer"><strong>第三方缤放 Github 下载页面</strong></a><i>Not supported content</i></p>
+</blockquote>
+<div><p>警告</p>
+<p>不建议在其它途径下载此软件（如：E-mail、相关社交软件的人、群，或者其它网站提供的自己下载链接等），毕竟和自己的账号财产相关，安全才是最重要！</p>
+<details><summary>这不是玩笑！点我展开查看木马传播途径</summary>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/trojan-mail.webp" alt="非法木马通过 E-mail 传播" /><br>
+<img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/trojan.webp" alt="被植入盗号木马程序的缤放登录器" /></p>
+</details>
+</div>
+<p>在第三方缤放 Github 下载页面的内容最上方，一般就是最新版本，直接点击 “<strong>Assets</strong>” 里的相关链接就可以下载了。</p>
+<p>如果无法下载，可以尝试使用相关跳转下载，具体可以自己网络搜索方法。</p>
+<p>下载回来，由于涉及到资金安全，建议大家下载回来的缤放登录器，先进行安全检测。</p>
+<blockquote>
+<p>在线查杀：<a href="http://www.virscan.org/language/zh-cn/" target="_blank" rel="noopener noreferrer">中文 virscan</a> | <a href="https://www.virustotal.com/gui/home/upload" target="_blank" rel="noopener noreferrer">国际英文 virustotal</a> 结果仅供参考！</p>
+</blockquote>
+<h2 id="使用"> 使用</h2>
+<p>由于第三方缤放登录器采用 <code>C#</code> 开发，如果您的电脑里没有 <code>.NET Framework Runtime</code> ，您会无法正常使用此软件。</p>
+<p>如果您的 <code>.NET Framework Runtime</code> 版本过低，也会无法正常使用。</p>
+<p>推荐使用 v4.8 + 版本，并不是说一定要安装，<b><font color="red">如果您的电脑能正常运行程序，请跳过这一步！</font></b></p>
+<blockquote>
+<p>前往：<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" rel="noopener noreferrer">微软 .NET Framework 下载页面</a>（这里以新版本 4.8 版本为例子，选择对应版本之后，点 <code>Download .NET Framework 4.8 Runtime</code> 下载）</p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/download-microsoft-net-framework.webp" alt="下载微软 .NET Framework 4.8" /></p>
+<blockquote>
+<p>如果已经使用较新版本的 .Net 运行库，依旧提示错误或者未响应等情况，您需要清理 .Net 运行库的缓存，具体可以使用 <code>Dism++</code> 工具来清理。前往：<a href="https://github.com/Chuyu-Team/Dism-Multi-language/releases" target="_blank" rel="noopener noreferrer">Dism++ 官方 Github 下载</a></p>
+</blockquote>
+<p>不出意外，您能看到登录器首次运行的区域选择提示！</p>
+<h2 id="内置实用的小工具"> 内置实用的小工具</h2>
+<p>登录缤放之后，在主界面，可以找到一个 “工具” 按钮，里面有一些很实用的小工具哦！</p>
+<p>其中有最实用的 <strong>装备卷轴星力计算器</strong>，我们一起来看看怎么使用吧！</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/star-force-calculator.webp" alt="缤放的装备卷轴星力计算器" /></p>
+<p>使用方法是：选择对应的装备部位，对应的等级，在 A 和 B 里填写装备自身的属性，就可以啦。</p>
+<p>其中：</p>
+<ul>
+<li>A、装备当前星力强化等级（就是多少星的装备啦）</li>
+<li>B、是装备原本白色的属性值，这个一定要填写哦，不然像武器类他的攻击加成是按装备自身多少攻击来算的。</li>
+<li>C、这是星火属性值，写上去，如果最终上卷正确，就能在左边的总值和装备对得上，不填写这个就会少星火属性。</li>
+</ul>
+<p>也许最终加上卷的值，装备的属性会比计算器的多一些攻击，这是因为天然白板装时，就有浮动的属性加成。</p>
+<blockquote>
+<p>注：如果是使用荣耀卷轴，数值多数会不准，一般都是大于黑卷，㘬值有小数。</p>
+</blockquote>
+<h2 id="😊-相关问题及解决方法"> 😊 相关问题及解决方法</h2>
+<p>这里汇集了多数的问题及解决方法，如果您遇到的问题并不在这里，请联系我（QQ：87182380），取得相关帮助。（我不会向您发送任何文件，请放心）</p>
+<h3 id="_1️⃣-缤放登录器启动类问题"> 1️⃣ 缤放登录器启动类问题</h3>
+<h4 id="a-启动第三方缤放登录器提示已停止工作"> <strong>A:) 启动第三方缤放登录器提示已停止工作</strong></h4>
+<p>由于第三方缤放登录器使用 <code>C#</code> 语言开发，如果您的电脑没有 <code>.NET</code> 运行库或者运行库版本比较旧，就会出现这情况。</p>
+<p>解决方法可以参考本文的第二章节：<a href="/pungin-beanfun.html#使用"><strong>使用</strong></a></p>
+<h4 id="b-第一次正常-之后每次启动缤放都卡死闪退"> <strong>B:) 第一次正常，之后每次启动缤放都卡死闪退</strong></h4>
+<p>请不要勾选 <code>自动登入</code> ，由于 <code>@Pungin</code> 对 3.x 之后的版本进行登录重构，导致自动登入非常容易发生缤放登录器卡死、闪退等现象。</p>
+<p>如果您已经勾选 <code>自动登入</code> 并发生了卡死闪退等现象，您可以在登录中界面狂点 <code>取消</code></p>
+<h3 id="_2️⃣-账号登录类问题-非游戏"> 2️⃣ 账号登录类问题（非游戏）</h3>
+<h4 id="a-港号登录一定要安装-beanfun-官方外挂程式"> <strong>A:) 港号登录一定要安装 beanfun 官方外挂程式</strong></h4>
+<p>实话，我真想吐槽官方为这个程序起的名字：<strong>beanfun 官方外挂程式</strong></p>
+<p>取名为：<code>Beanfun 平台服务程序</code> 难道不更高大上吗？不仅好听，还专业。吐槽完毕！</p>
+<blockquote>
+<p><a href="http://hk.beanfun.com/locales/HK/contents/beanfun_block/help/plugin_install.html" target="_blank" rel="noopener noreferrer">beanfun 官方外挂程式下载页面</a></p>
+</blockquote>
+<p>安装完 beanfun 官方外挂程式，港号就可以正常登入了。</p>
+<h4 id="b-缤放无法登录账号-3-0-之前的旧缤放版本"> <strong>B:) 缤放无法登录账号（3.0 之前的旧缤放版本）</strong></h4>
+<p>如果你的缤放登录器是 2.9.9 版本之前的，那么提示无法登录账号，就是没有安装橘子官方的 beanfun 平台程序导致的</p>
+<p>如果是 3.0 版本之后的，那么你可以看看是否网络问题导致的，有时 <strong>网络故障</strong> 就无法登录了，请换加速器看看。</p>
+<h4 id="c-提示-无法加载进行反序列化所需的类型-beanfun-records"> <strong>C:) 提示:无法加载进行反序列化所需的类型 beanfun records</strong></h4>
+<p>从 3.0.1 版本开始，Pungin 作者重新更新了本地记录文档，旧版解析新版本的本地记录文档就会提示 “无法进行反序列化”</p>
+<p>请重新下载新版本的第三方缤放登录器就可以解决这个问题。</p>
+<div><p>不建议删除账号记录文件以启动旧版本为目的的操作</p>
+<p><em>删除缤放账号记录文件方法:</em></p>
+<p>按 “Win + R” 键打开运行，在运行里输入：%appdata%</p>
+<p>在 “AppData\Roaming” 里删除 “Beanfun” 目录就可以。</p>
+<p><strong>如非必要，请不要删除此文档，不然，您所记录的所有账号密码将清空！</strong></p>
+</div>
+<h4 id="d-检查到档案数位签章错误-请洽客服人员"> <strong>D:) 检查到档案数位签章错误，请洽客服人员</strong></h4>
+<p>出现此提示，一般都是港号，这是由于 <strong>beanfun 官方外挂程式</strong> 未能正常加载，建议重新安装就可以解决此问题</p>
+<blockquote>
+<p>前往 <a href="http://hk.beanfun.com/locales/HK/contents/beanfun_block/help/plugin_install.html" target="_blank" rel="noopener noreferrer">beanfun 官方外挂程式下载页面</a>，下载并安装 beanfun 官方外挂程式，即可。</p>
+</blockquote>
+<h4 id="e-台号一直提示登入失败-未找到-eventvalidation-讯息-请检查网络连接"> <strong>E:) 台号一直提示登入失败，未找到 Eventvalidation 讯息，请检查网络连接</strong></h4>
+<p>由于台号的网页登入页面改版了，您需要下载新版本的第三方缤放登录器，才能正常登入。</p>
+<p>如果您的缤放登录器版本低于 v3.1.5 版本，您是无法正常登入台号，请下载新版本。</p>
+<h4 id="f-请点击我不是机器人"> <strong>F:) 请点击我不是机器人</strong></h4>
+<p>这是由于加速器的同一个节点太多人使用，导致需要进行人机验证，这时，就需要您进行更换节点试试看了，或者更换其他加速器。</p>
+<h3 id="_3️⃣-游戏启动类问题"> 3️⃣ 游戏启动类问题</h3>
+<h4 id="a-指定游戏目录-才能用缤放启动游戏"> <strong>A:) 指定游戏目录，才能用缤放启动游戏</strong></h4>
+<p>如果您是通过第三方缤放登录器来启动游戏，您需要先为 <code>设定</code> 里指定一下游戏目录。</p>
+<p><code>设定</code> 可以从主界面的右上角里找到按钮。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/beanfun-setting.webp" alt="缤放设定界面" /></p>
+<p>其中选中 “传统登入模式”，就会有 “获取密码”，这样就能获取动态登入游戏了。</p>
+<div><p>提示</p>
+<p>如果您是新人，建议不要选中 “传统登入模式”，这样点启动游戏就会直接登录您的游戏账号。</p>
+</div>
+<h4 id="b-缤放启动游戏后-右下角只提示-ngs-就没了"> <strong>B:) 缤放启动游戏后，右下角只提示 NGS，就没了</strong></h4>
+<blockquote>
+<p>启动游戏之后，跳过了 play 界面，并且右下角的 NGS 安全图标也提示了，之后，并没有出现游戏界面</p>
+</blockquote>
+<p>这情况往往是您的游戏安装目录路径带有中文导致的！</p>
+<p>请把游戏的父级目录里中文改成非中文，或把新枫之谷（台服冒险岛），拷贝到别的地方。</p>
+<p>也许您不能理解 <code>路径</code> 这一词，没事，我来举个例子：</p>
+<ul>
+<li>✅ C:\Program Files\MapleStory\MapleStory.exe</li>
+<li>❌ C:\Program Files\新枫之谷\MapleStory.exe</li>
+</ul>
+<p>上面两个路径，前面一个为正确示例，后者带有中文，就是错误的路径示例。</p>
+<p>当然，有时候 NGS 进程卡住了，也会出现这种情况，如果您的游戏路径并有没中文，请考虑结束 NGS 进程，以方便正常启动游戏。（结束 NGS 进程，可能需要再次启动游戏）</p>
+<h4 id="c-来自缤放的警告-自动更新可能破坏程序-已被阻止"> <strong>C:) 来自缤放的警告：自动更新可能破坏程序，已被阻止</strong></h4>
+<p>这是由于第三方缤放登录器默认是阻止自动更新的！</p>
+<p>这是由于我们都是使用加速器来玩新枫之谷的，在线更新很容易发生数据丢失（就是丢包现象，平时玩的时候会卡顿）。</p>
+<p>出现这个提示，意味着有新的游戏版本，建议去官网查看，或者来本站的下载文章查看。</p>
+<p><a href="https://maplestory.beanfun.com/download" target="_blank" rel="noopener noreferrer">新枫之谷官网下载页面</a> | <a href="./../xinren/download.html">小T撰写的游戏下载文章</a></p>
+<h4 id="d-启动游戏之后-第三方缤放登录器就卡住"> <strong>D:) 启动游戏之后，第三方缤放登录器就卡住</strong></h4>
+<p>这个现象一般出现在 v3.x 版本，这是当时相关代码没优化好导致的，简单的解决方法就是使用新版本。</p>
+<p>当然，您也可以使用 LE 来启动，配合第三方缤放登录器只获取密码来登入游戏，但是这个方法多了一些步骤，相对来说没有那么便捷，不推荐。</p>
+<h4 id="e-非繁体语系系统启动游戏失败-提示-c00700c1"> <strong>E:) 非繁体语系系统启动游戏失败，提示：C00700C1</strong></h4>
+<p>有三种原因导致这情况出现：</p>
+<ul>
+<li>1、使用了自动更新，导致游戏文件被损坏，请重新安装更新，或者重新安装一次游戏，再或者找朋友另外复制一个游戏主程序过来试试（建议大家别用自动更新）</li>
+<li>2、更改了语言区域导致区域异常，也会提示这个，解决办法就是简体语言和繁体语言换一换来尝试看看了</li>
+<li>3、被安全软件拦截了 LE 模块，比如使用了 3** 相关安全软件。建议到 msdn itellyou 里下载镜像重装系统！</li>
+</ul>
+<h4 id="f-启动游戏提示错误码-c0000135"> <strong>F:) 启动游戏提示错误码：C0000135</strong></h4>
+<p>这可能是第三方缤放登录器的 LE 模式被相关安全软件拦截，或者你的系统本身之前有修改过其他语言区域。</p>
+<p>解决办法是修改回简体语言环境，或者改为繁体语言环境。</p>
+<h4 id="g-启动失败-请尝试从桌面捷径启动游戏。若您系统为非繁体语係系统-可能是-locale-emulator-元件不支援您的系统。"> <strong>G:) 启动失败，请尝试从桌面捷径启动游戏。若您系统为非繁体语係系统，可能是 Locale Emulator 元件不支援您的系统。</strong></h4>
+<p>这是由于您的缤放目录下，缺少 LocaleEmulator.dll 和 LoaderDll.dll 文件导致的。</p>
+<p>这多发生在 v3.x 以下版本，主要是第三方缤放登录器并没有把 LE 模块释放到系统目录，只读取登录器同级目录。</p>
+<p>新版本已经不存在这个提示，如果还有，请检查一下是否有安全软件拦截了登录器释放 LE 的 DLL 文件到系统。</p>
+<h3 id="_4️⃣-游戏账号登入类问题"> 4️⃣ 游戏账号登入类问题</h3>
+<p>这里的问题，多数是网络的原因，如果您更换节点不能解决，那么请更换一下加速器，或许多数问题就会得到解决。</p>
+<h4 id="a-登入失败-未找到-eventvalidation-讯息-请检查网络连接"> <strong>A:) 登入失败，未找到 Eventvalidation 讯息，请检查网络连接</strong></h4>
+<p>如果出现这情况，请留意一下账号安全情况！</p>
+<p>登入状态除非很久，或者更换过节点等操作，正常情况下是：不会执行退出账号行为的！</p>
+<p>那么，您刚登录账号不久，再获取密码就提示这个，应该是有人登录过你的账号了！</p>
+<p>具体登录记录可以从：<strong>会员中心-查询记录-大事纪-beanfun!主账号</strong> 查询账号登录情况。</p>
+<blockquote>
+<p>细心的朋友，也会发现前面台号账号登录缤放时也有此提示，如果您不是此情况，请参考前面答案。</p>
+</blockquote>
+<div><p>提示</p>
+<p>偶尔港号服务器出问题也会出现这个提示（港号的服务器貌似经常出问题，真服了）</p>
+</div>
+<h4 id="b-没有添加账号-启动游戏会提示-您还未选择需要启动游戏的账号"> <strong>B:) 没有添加账号，启动游戏会提示：您还未选择需要启动游戏的账号</strong></h4>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/no-account-selected.webp" alt="缤放启动游戏时提示你还未选择启动游戏的账号" /></p>
+<p>出现此情况一般是以下几种：</p>
+<ul>
+<li>1、刚刚注册的账号</li>
+<li>2、加速器问题</li>
+<li>3、极少见服务器 GG 了导致的现象（其中港号相对来说比较常见）</li>
+</ul>
+<CodeGroup>
+<CodeGroupItem title="1、刚刚注册的账号">
+<div><p>解决方法</p>
+<p>1.在 <code>第三方缤放登录器</code> 主界面右下角，点击 “新增账号”</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/new-account.webp" alt="在第三方缤放登录器里新增账号" /></p>
+<p>2.在 “使用者名称” 里输入注册账号时填写的昵称，或者随便填一个。（其实随便填的发生过 BUG，这个 BUG 应该不会再出现了。）</p>
+<blockquote>
+<p>如果您无法正常新增账号，您需要在浏览器里网页在线增加！（港号请使用 IE 浏览器）</p>
+</blockquote>
+</div>
+</CodeGroupItem>
+<CodeGroupItem title="2、加速器问题" active>
+<div><p>解决方法</p>
+<p>可以尝试更换节点，或者使用别的加速器尝试（许多加速器都是永久免费的，由于并没有收到广告费，在此就不列举了）</p>
+</div>
+</CodeGroupItem>
+<CodeGroupItem title="3、服务器 GG 了" active>
+<div><p>解决方法</p>
+<p>等吧，我也没办法，橘子又不请我维护，我能怎么办，他们应该不会输入下面命令吧！</p>
+<div><pre><code><span>sudo</span> <span>rm</span> -rf /
+</code></pre>
+<div><span>1</span><br></div></div></div>
+</CodeGroupItem>
+</CodeGroup>
+<h4 id="c-无法获取密码"> <strong>C:) 无法获取密码</strong></h4>
+<p>有多种原因会导致这种情况出现：</p>
+<ul>
+<li>1、港号未安装官方 beanfun 外挂程序，或未连接上程序（未连接上请考虑是否有安全软件拦截，或者前往 <a href="http://hk.beanfun.com/locales/HK/contents/beanfun_block/help/plugin_install.html" target="_blank" rel="noopener noreferrer">beanfun 官方外挂程式下载页面</a>，重新安装一下）。</li>
+<li>2、加速器导致，或网络问题。有些加速器是进程式加速，而多数是 IP 式加速，可以考虑更换其他加速器尝试。IP 式加速器，还能有效避免锁号问题。</li>
+<li>3、特殊情况，如：2020年5月底因大量工作室涌入导致暂时关闭新号密码获取。这是短期的，等这情况过后，就会恢复。</li>
+</ul>
+<h4 id="d-获取密码失败-服务账号不存在"> <strong>D:) 获取密码失败，服务账号不存在</strong></h4>
+<p>之前就有多个萌新深夜去注册账号，无论等待多久都提示：“服务账号不存在”，但是查询账号信息都显示状态正常。</p>
+<p>经过多位小伙伴提供的注册时间可以得出：深夜后注册的账号等于空号！这时候您就需要通过 “客服中心” 联系客服，帮忙解决此问题</p>
+<p>请大家别在深夜去注册账号。</p>
+<p>另外，每次维护时注册的账号也会出现这情况，维护时间多是在星期三，这是由于数据同步不到游戏数据库，这情况就需要等待一天了。</p>
+<blockquote>
+<p>要是等了一天多，还是不行，就需要 <a href="./../xinren/unlock.html">联系客服进行账号异常处理</a><br>
+著名服务器卡爆事件也会导致此类情况发生<br>
+2020年5月底大量工作室进 TMS，导致服务器卡爆，官方直接把月底几天申请的新号暂停密码取得服务，并且加强 GM 在线排查。这时候申请的账号就会获取不到密码。<br>
+后续会不会再次出现这种情况也很难说，好在这种特殊情况只维持几天。</p>
+</blockquote>
+<h4 id="e-锁号误封或者永久封号的账号无法进入游戏"> <strong>E:) 锁号误封或者永久封号的账号无法进入游戏</strong></h4>
+<p>如果账号显示灰色，要么是锁号了，要么是封号了。</p>
+<p>请查看原因，可以点 “会员中心” - “查询记录” - “大事件” 里查看。</p>
+<blockquote>
+<p>之前大事件不能查询当天的，最早是昨天的。现在不知道是否可以查询当天的了。</p>
+</blockquote>
+<p><strong>事件显示：帳號鎖定(終止遊戲契約(永久鎖定);0)</strong></p>
+<p>出现这情况，会有两种情况，一种是使用非法程序导致永久封号，如：<strong>压键盘</strong>、<strong>使用鼠标连点</strong>、<strong>外挂程序</strong>、<strong>购买工作室游戏币</strong>，等等。</p>
+<p>如果不是上面所说的情况，那么应该是误封了，请申请解锁。如 2020年3月份 有名的大面积永久误封斗燃猫号，只要申请，说明原因，就会得到解锁。</p>
+<h4 id="f-其他因网络错误导致的提示"> <strong>F:) 其他因网络错误导致的提示</strong></h4>
+<p>这些情况都是网络问题导致的，一般换个节点或者更换其他加速器就能解决。</p>
+<p>这类错误提示如：</p>
+<ul>
+<li>基础连接已经关闭：发送时发生错误</li>
+</ul>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/connection-closed.webp" alt="基础连接已经关闭" /></p>
+<p>以及其他未列举的提示....</p>
+<h2 id="多账号管理"> 多账号管理</h2>
+<p>在 <code>第三方缤放登录器</code> 里可以很容易维护多账号，您可以通过登录界面的 <code>管理账号</code> （v3.x 以下版本），或者通过设定里的 <code>管理账号</code> （v4.x 以上版本），进行多账号管理。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/old-manage-account.webp" alt="旧缤放登录器管理账号" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/new-manage-account.webp" alt="新缤放登录器管理账号" /></p>
+<p>对指定账号进行设置，可以为账号设置一个备注信息。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/change-account-information.webp" alt="对多账号进行备注信息变更" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/confirm-account-notes.webp" alt="修改备注信息" /></p>
+<h2 id="赞助开发者-让缤放未来更加美好"> 赞助开发者，让缤放未来更加美好</h2>
+<p>缤放 - 乐豆第三方客户端 是 <code>Pungin</code> 在 Github 开源的一个项目。</p>
+<p>如果您有条件，请赞助一下，让开源项目能长久发展下去！</p>
+<p>赞助入口：</p>
+<p><strong>第一步</strong>：在 <code>缤放 - 乐豆第三方客户端</code> 的右上角找到 <code>关于</code> 按钮</p>
+<p><strong>第二步</strong>：在 <code>关于</code> 界面的右下角找到 <code>捐赠</code> 入口</p>
+<div><p>除了上面的赞助方法，还有参与开发的赞助方法。</p>
+<p>如果您也是使用 <code>C#</code> 开发程序，不妨一起参与开发，这也是一种赞助方式。</p>
+<p>我始终相信，每个人的精力是有限的，如果您有空余的时间，参与项目的开源开发，能让作者有更多时间去做其他事。</p>
+</div>
+<p>感谢每一个为开源项目做出贡献的人！</p>
+<p>包括不限于：使用支持、赞助支持、开发支持、反馈支持、新功能建议支持等等</p>
+<p>对，您没看错，贡献方式不仅仅是 <code>赞助</code> 和 <code>参与开发</code>，您在使用也是贡献，您能反馈问题也是贡献，还能提议相关功能也是一种贡献，甚至去点颗星也是一种贡献方式。</p>
+<p>请不要认为支持 <code>缤放 - 乐豆第三方客户端</code> 是件难事，您的每一小步贡献，都是支持的一大步！</p>
+<p><code>Tikas</code> 在这替所有开源作者说声：</p>
+<p>谢谢您的支持！</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/trojan-mail.webp" type="image/webp"/>
+    </item>
+    <item>
+      <title>🎮 启动游戏的方法</title>
+      <link>https://xtikas.com/how-to-start-the-game.html</link>
+      <guid isPermaLink="false">/how-to-start-the-game.html</guid>
+      <source url="https://xtikas.com/rss.xml">🎮 启动游戏的方法</source>
+      <description>本文详细告知如何正常启动新枫之谷（台服冒险岛），包括了正常的直接启动、使用 LE 启动、以及登录器启动。</description>
+      <category>新人教程</category>
+      <content:encoded><![CDATA[<p>由于新枫之谷使用了繁体编码，如果您在简体操作系统直接运行游戏，就会提示：</p>
+<p>This client can be executed only in Traditonal Chinese code-page</p>
+<p>不用担心，我们只需要知晓三种启动游戏的方法，就能体验游戏了。</p>
+<h2 id="三种启动方法之间的比较"> 三种启动方法之间的比较</h2>
+<p>虽然本文一直在强调目前主流有三种启动游戏的方法，实际情况中，其实只需要两种就可以，另一种只用来备用。</p>
+<p>详细可以通过下面表格对比得出：</p>
+<hr>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">对比项</th>
+<th style="text-align:center">原生态网页启动</th>
+<th style="text-align:center">使用 LE 启动</th>
+<th style="text-align:center">第三方缤放登录器启动</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">不用修改系统语言环境</td>
+<td style="text-align:center"><font color="red">✘</font></td>
+<td style="text-align:center"><font color="green">✔</font></td>
+<td style="text-align:center"><font color="green">✔</font></td>
+</tr>
+<tr>
+<td style="text-align:center">不需要 .Net 运行库支持</td>
+<td style="text-align:center"><font color="green">✔</font></td>
+<td style="text-align:center"><font color="red">✘</font></td>
+<td style="text-align:center"><font color="red">✘</font></td>
+</tr>
+<tr>
+<td style="text-align:center">记住密码风险性</td>
+<td style="text-align:center">IE易泄露密码，风险大</td>
+<td style="text-align:center">不支持账号密码</td>
+<td style="text-align:center">相对安全</td>
+</tr>
+<tr>
+<td style="text-align:center">多账号切换</td>
+<td style="text-align:center"><font color="red">✘</font></td>
+<td style="text-align:center">不支持账号密码</td>
+<td style="text-align:center"><font color="green">✔</font></td>
+</tr>
+<tr>
+<td style="text-align:center">一步到位进入游戏</td>
+<td style="text-align:center"><font color="green">✔</font></td>
+<td style="text-align:center">仅启动游戏，不能登入</td>
+<td style="text-align:center"><font color="green">✔</font></td>
+</tr>
+<tr>
+<td style="text-align:center">星级得分</td>
+<td style="text-align:center">💛💛🤍🤍🤍</td>
+<td style="text-align:center">💛🤍🤍🤍🤍</td>
+<td style="text-align:center">💛💛💛💛🤍</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>由于我们大多注册的都是 <code>港号</code>，港号使用了较旧的技术，仅支持古老的 <code>IE 浏览器</code>，从上图对比可以看出：</p>
+<p><strong>原生太网页启动</strong>：适合单个账号，并不需要记住密码的用户使用，仅需要修改一下系统的语言环境（非常容易修改）就可以做到直接启动游戏并正常畅玩。</p>
+<p><strong>使用 LE 启动</strong>：<code>LE</code> 是 <code>Locale Emulator</code> 的缩写，它能让您的电脑不管处于什么语言环境，都能运行指定语言环境的程序，神器！但是它本身不进行相关账号密码管理，因此，很多单机游戏会用到它。此方法仅仅只是支持游戏程序能正常启动，由于本身不支持账号密码，导致无法登录游戏，眼看着登录界面，却什么也做不了。此方法多用来备用。</p>
+<p><strong>第三方缤放登录器启动</strong>：第三方登录器本身是采用了 <code>LE</code> 来启动游戏，让您可以在简体操作系统里直接启动游戏。并且，由于本身集成了账号管理，可以非常方便进行多账号登录操作。唯一可惜的是：它使用 <code>.Net</code> 开发，配置低的电脑再运行 <code>.Net</code> 开发的程序会占用掉大量的系统资源，并且，如果操作系统不是 Win 10 以上的话，会容易出现一些特别情况。</p>
+<p>现在大家会对如何选择适合自己的启动游戏方法有一定的了解，接下来，分析一下他们之间的实现方法，请往下看。</p>
+<h2 id="方法一-原生态网页启动"> 方法一：原生态网页启动</h2>
+<p>要想使用网页启动游戏，你需要把电脑的区域设置为繁体台湾。</p>
+<p>打开：控制面板，在控制面板里找到区域。如果你的是 “类别” 显示，你应该先找：时钟和区域，再在里面找到 “区域”</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/region.webp" alt="windows 的区域设置" /></p>
+<p>在区域设置的 “管理” 非 unicode 程序的语言里，点击 “更改系统区域设置”，选择设置如下图：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/languages-for-non-unicode-programs.webp" alt="更改系统非 unicode 程序的语言设置" /></p>
+<blockquote>
+<p>设置繁体区域之后，建议不要使用老版本的第三方缤放登录器来启动游戏啦，不然容易报：C00700C1 错误。</p>
+</blockquote>
+<p>这样就可以在简体操作系统直接启动新枫之谷啦。</p>
+<h2 id="方法二-使用-le-启动"> 方法二：使用 LE 启动</h2>
+<p>使用 LE 来启动游戏，可以比较好解决 <code>第三方缤放登录器</code> 3.x 版本 卡死的问题。</p>
+<p>启动游戏之后，可以配合使用第三方缤放登录器获取密码来进入游戏。</p>
+<p>这是一个非常不错的搭配方法。</p>
+<blockquote>
+<p>感兴趣的小伙伴们，可以网上搜索查相关文章。</p>
+</blockquote>
+<h2 id="方法三-第三方缤放登录器启动"> 方法三：第三方缤放登录器启动</h2>
+<p>使用 “第三方缤放登录器” 可以很好解决 “This client can be executed only in Traditonal Chinese code-page” 这类问题，因为 “缤放” 已经引用了 <code>Locale Emulator</code> 模块，简体系统，一样玩新枫之谷！</p>
+<blockquote>
+<p>前往：<a href="https://github.com/pungin/Beanfun/releases" target="_blank" rel="noopener noreferrer">第三方缤放 Github 下载页面</a>（无法访问请联系我取得帮助：QQ：87182380，放心，我不会向您发送任何文件）</p>
+</blockquote>
+<p>由于涉及到资金安全，建议大家下载回来的第三方缤放登录器，先进行安全检测。</p>
+<blockquote>
+<p>在线查杀：<a href="http://www.virscan.org/language/zh-cn/" target="_blank" rel="noopener noreferrer">中文 virscan</a> | <a href="https://www.virustotal.com/gui/home/upload" target="_blank" rel="noopener noreferrer">国际英文 virustotal</a>，结果仅供参考</p>
+</blockquote>
+<details><summary>Win 7 请看：</summary>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/beanfun-has-stopped-working-diagram.webp" alt="缤放已停止工作图" /></p>
+<p>由于 “第三方缤放登录器” 使用 .Net 开发，如果您是 Win 7 系统，您还需要更高版本的 .Net 运行库，以解决缤放登录器未响应或已停止工作等问题。</p>
+<blockquote>
+<p>前往：<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" rel="noopener noreferrer">微软 .NET Framework 下载页面</a>（这里以新版本 4.8 版本为例子，选择对应版本之后，点 <code>Download .NET Framework 4.8 Runtime</code> 下载）</p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/download-microsoft-net-framework.webp" alt="下载微软 .NET Framework 4.8" /></p>
+<blockquote>
+<p>如果已经使用最新版本的 .Net 运行库，依旧提示错误或者未响应等情况，您需要清理 .Net 运行库的缓存，具体可以使用 <code>Dism++</code> 工具来清理。前往：<a href="https://github.com/Chuyu-Team/Dism-Multi-language/releases" target="_blank" rel="noopener noreferrer">Dism++ 官方 Github 下载</a></p>
+</blockquote>
+</details>
+<p>在设定界面指定一下新枫之谷的游戏路径，设定按钮在 “缤放” 的右上角那一排可以找到。</p>
+<p>设置界面如下：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/beanfun-setting.webp" alt="缤放设置界面" /></p>
+<p>其中选中 “传统登入模式”，就会有 “获取密码”，这样就能获取动态登入游戏了。</p>
+<div><p>提示</p>
+<p>如果您是新人，建议不要选中 “传统登入模式”，这样点启动游戏就会直接登录您的游戏账号。</p>
+</div>
+<p>如果没有勾选获取密码旁边的 “自动输入”，那么您需要手动复制游戏账号及动态密码。</p>
+<blockquote>
+<p>游戏账号需要在 <code>第三方缤放登录器</code> 软件界面里双击自己的账号名称，就会复制一段类似乱码一样的字符串，这就是游戏的账号；密码需要点 <code>获取密码</code> 才会出现。</p>
+</blockquote>
+<div><p>警告</p>
+<p>千万不要在游戏登录界面里输入注册的 Beanfun 账号和密码来登录游戏！</p>
+<p>新枫之谷（台服冒险岛）使用的是 Beanfun 账号获取游戏账号的动态密码进行登录游戏的！</p>
+<p>如果不知晓怎么查看自己的游戏账号和密码，可以看下面的：“打开查看：启动游戏会提示：未选择启动游戏的账号”</p>
+<details><summary>打开查看：启动游戏会提示：未选择启动游戏的账号</summary>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/no-account-selected.webp" alt="第三方缤放登录器启动游戏时提示你还未选择启动游戏的账号" /></p>
+<p>如果你的账号是刚刚注册的，登录缤放之后，是无法获取密码的，你还需要进行下列操作：</p>
+<p>1.在 <code>第三方缤放登录器</code> 主界面右下角，点击 “新增账号”</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/new-account.webp" alt="在第三方缤放登录器里新增账号" /></p>
+<p>2.在 “使用者名称” 里输入注册账号时填写的昵称（其实可以随便填的，但是发生过 BUG，这个 BUG 应该不会再出现了。）</p>
+<blockquote>
+<p>如果您无法正常新增账号，您需要使用 IE 浏览器，在浏览器里网页在线增加！</p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/username.webp" alt="第三方缤放登录器的使用者名称" /></p>
+<p>3.如果你的 <code>第三方缤放登录器</code> 底下没有获取密码按钮，那么你需要在 “设定” 里选中 “传统登入模式”</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/traditional-login-mode.webp" alt="在第三方缤放登录器里使用传统登入模式进入游戏" /></p>
+<p>4.新版本 <code>第三方缤放登录器</code> 默认是隐藏了账号，你可以在账户名称里双击复制你的账号。（如果选中自动输入，获取密码后，第三方缤放登录器会自动帮你输入账号和密码）</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/copy-account.webp" alt="在第三方缤放登录器里双击账户名复制账号" /></p>
+</details>
+</div>
+<p>如果使用第三方缤放登录器遇到一些困难或者错误等，可以参考这篇文章，有着许多常见的问题解答：</p>
+<blockquote>
+<p>查阅：<a href="/pungin-beanfun.html">缤放登录器-乐豆第三方客户端：使用教程</a></p>
+</blockquote>
+<h2 id="没看这一步的人都哭晕了"> 没看这一步的人都哭晕了 <i>Not supported content</i></h2>
+<div><p>第一次提示的密码为二级密码，非常重要！</p>
+<p>创建角色、进入仓库、现金道具交易等都需要它，尽量简单易记就行，别太复杂！</p>
+<p>如果忘记二级密码，您只能邮件联系客户取得帮助，非常麻烦！</p>
+</div>
+<div><p>游戏角色名一定要包含中文！</p>
+<p>创建游戏角色名请一定要包含中文！不然容易锁号！</p>
+<p>别起个全英文，或者英文加数字的角色名，一天一锁别来哭诉！</p>
+</div>
+<div><p>每周三维护</p>
+<p>每周三会进入维护，一般是早 <font color="red">8点</font> 到中午 <font color="red">14点</font>，大维护时期具体时间请看官网公告。维护期间是无法进入游戏的！</p>
+</div>
+<div><p>刚刚注册的账号别急着进入游戏</p>
+<p>如果账号是刚刚注册，别急着进游戏，先放松几分钟，不然，会提示下面错误：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/unable-to-connect-due-to-system-error.webp" alt="因系统错误无法连线" /></p>
+<p>等几分钟后（这个过程可能是需要同步港号的相关数据，有时需要隔一两天），就可以进游戏啦！</p>
+<p>如果你等一段时间还是提示这个，请确认你的账号是否进行了两次进阶认证！</p>
+<blockquote>
+<p>好像从 2020年 3月份 开始，就提示为 “请确认您的 Gash 账号与游戏账号是否为正常状态”</p>
+</blockquote>
+</div>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/region.webp" type="image/webp"/>
+    </item>
+    <item>
+      <title>☁️ 新枫之谷（台服冒险岛）游戏下载</title>
+      <link>https://xtikas.com/download.html</link>
+      <guid isPermaLink="false">/download.html</guid>
+      <source url="https://xtikas.com/rss.xml">☁️ 新枫之谷（台服冒险岛）游戏下载</source>
+      <description>提供新枫之谷（台服冒险岛）最新版本的官方游戏下载地址，以及最新的更新档补丁，还有旧版本升级到最新版本的更新补丁。</description>
+      <category>新人教程</category>
+      <content:encoded><![CDATA[<div><p>提示</p>
+<p>下载地址来自官方公开地址，只为方便无法正常访问官网的用户使用。</p>
+<p>如果您可以访问官网，建议您多多去官网，还能留意相关维护信息。</p>
+<div>
+<p><a href="https://maplestory.beanfun.com/download" target="_blank" rel="noopener noreferrer">新枫之谷官网下载页面</a></p>
+</div>
+</div>
+<h2 id="一、当前最新游戏版本"> 一、当前最新游戏版本</h2>
+<p>当前游戏最新版本为: <code>v239</code> 版本（同步更新于: 2021/12/01）</p>
+<p>目前还没有小版本更新档。</p>
+<h2 id="二、下载-v239-大版本游戏安装文件"> 二、下载 <code>v239</code> 大版本游戏安装文件</h2>
+<p><code>v239</code> 大版本安装文件:</p>
+<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MapleStoryV239/MapleStoryV239.zip
+</code></pre>
+</div><p>建议使用下载工具进行下载, 您将会得到一个 18.4 GB 左右大小的 <code>zip</code> 文件</p>
+<p>Windows OS 默认是支持 <code>zip</code> 文件解压操作的</p>
+<blockquote>
+<p>如果您的电脑无法对此文件进行解压, 您可以点此链接: <a href="https://www.7-zip.org/a/7z1900-x64.exe" target="_blank" rel="noopener noreferrer">下载安装 7-zip 软件</a></p>
+</blockquote>
+<h2 id="三、安装-v239-大版本游戏"> 三、安装 <code>v239</code> 大版本游戏</h2>
+<p>由于台服使用了繁体编码，在简体系统中运行会显示乱码，但是，并不影响整个游戏的安装</p>
+<p>运行解压出来的安装主程序即可进行安装 (很容易猜出<code>下一步</code>按钮)</p>
+<div><p>安装目录一定不能有中文</p>
+<p>如果游戏的目录路径带有中文，您将无法正常启动游戏</p>
+</div>
+<details><summary>安装过程出现异常错误提示（乱码显示）</summary>
+<p>如果您安装过程中一直会提示相关对话框，不能顺利进行安装，您下载回来的游戏文档可能并没有下全。</p>
+<p>请检查一下分割包 bin 的文件大小是否都一致：</p>
+<p>一般前面的几个 bin 文件，大小都是一样的，只有最后一个 bin 文件才会小些。</p>
+<p>您可以尝试修复一下下载回来的 <code>zip</code> 文件, 如果修复后还是会提示, 建议您重新下载游戏文件</p>
+</details>
+<h2 id="四、下载小版本更新档文件"> 四、下载小版本更新档文件</h2>
+<p>当前没有出小版本更新档文件，即 <code>v239</code> 是最新版本。</p>
+<h2 id="五、安装小版本更新档文件"> 五、安装小版本更新档文件</h2>
+<p>小版本更新档文件多数是 <code>7z</code> 文档来的, 您可以很直观通过文件的图标识别它</p>
+<p>建议右键以 <code>管理员身份运行</code> 更新包程序</p>
+<div><p>提示</p>
+<p>当前 <code>v239</code> 是最新版本，请大家跳过这一步。</p>
+</div>
+<h3 id="_5-1-运行小版本更新档程序"> 5.1 运行小版本更新档程序</h3>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/run-the-update-package.webp" alt="运行新枫之谷手动游戏更新包" /></p>
+<p>从上图可以看出，手动更新包运行时，获取的目录路径是当前的。</p>
+<p>可以把手动更新包拷贝到游戏目录内运行的哦！</p>
+<p>为了减少游戏目录所占用空间过大，推荐把更新包存放在其他地方。</p>
+<h3 id="_5-2-指定游戏目录"> 5.2 指定游戏目录</h3>
+<p>点击 <code>...</code> 按钮，会弹出浏览文件夹对话框，指定到新枫之谷游戏的目录路径</p>
+<p>如下图所示（这是小T同学自己的游戏目录安装地方，并不是您的电脑游戏所在目录）</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/maplestory-directory.webp" alt="新枫之谷目录路径" /></p>
+<p>MapleStory 目录下有：BlackCipher，blob_storage，GPUCache，locales，swiftshader 等目录</p>
+<p>那么这个 MapleStory 就是游戏目录路径啦！</p>
+<blockquote>
+<p>本来不想多说这一步的，实在是太多小伙伴游戏目录类似这样的：.../MapleStory/MapleStory/MapleStory.exe,然后他们分不出到底那个 MapleStory 才是正确的游戏目录</p>
+</blockquote>
+<h3 id="_5-3-extract-解压覆盖"> 5.3 Extract 解压覆盖</h3>
+<p>确保游戏目录没有错误，就开始点 Extract 按钮，解压覆盖吧！</p>
+<p>提示下图所示，就是解压到正确的游戏目录了，点：<code>Yes to All</code> 吧！</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/yes-to-all.webp" alt="点击 yes to all 覆盖旧版本文件" /></p>
+<h2 id="六、旧版本升级到最新版本"> 六、旧版本升级到最新版本</h2>
+<p>如果您电脑里之前有新枫之谷，那么您可以前往游戏目录，右键游戏的启动程序：<code>MapleStory.exe</code>，选择属性，查看一下 <code>详细信息</code> 里的产品版本，可以得知当前旧游戏的版本信息。</p>
+<p>再查看一下是否有对应的升级文件，如果有，就可以下载升级文件更新到最新版本。</p>
+<p>当然，更新到大版本之后，还是要检测一下当前大版本是否有出小版本更新，具体可以参考本文前面的内容：<code>四、下载小版本更新档文件</code></p>
+<div><p>注意</p>
+<p>此步骤仅适合原本电脑里有新枫之谷的玩家使用</p>
+</div>
+<p><code>v237</code> - <code>v239</code> 升级文件：</p>
+<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MaplePatch237to239.exe
+</code></pre>
+</div><p><code>v238</code> - <code>v239</code> 升级文件：</p>
+<div><pre><code>https://maplestory-download.beanfun.com/maplestory/download/x2RWPj3yC09Q/MaplePatch238to239.exe
+</code></pre>
+</div><p>建议右键以 <code>管理员身份运行</code> 升级程序，升级完之后，记得去下载当前版本的小版本更新档，并完成更新。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/run-the-update-package.webp" type="image/webp"/>
     </item>
     <item>
       <title>💲 beanfun 乐豆点 Gash 充值教程</title>
@@ -1420,170 +1608,6 @@
 <p>游戏之外，还有更多！</p>
 <p>祝您游戏愉快。</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>🎮 启动游戏的方法</title>
-      <link>https://xtikas.com/how-to-start-the-game.html</link>
-      <guid isPermaLink="false">/how-to-start-the-game.html</guid>
-      <source url="https://xtikas.com/rss.xml">🎮 启动游戏的方法</source>
-      <description>本文详细告知如何正常启动新枫之谷（台服冒险岛），包括了正常的直接启动、使用 LE 启动、以及登录器启动。</description>
-      <category>新人教程</category>
-      <content:encoded><![CDATA[<p>由于新枫之谷使用了繁体编码，如果您在简体操作系统直接运行游戏，就会提示：</p>
-<p>This client can be executed only in Traditonal Chinese code-page</p>
-<p>不用担心，我们只需要知晓三种启动游戏的方法，就能体验游戏了。</p>
-<h2 id="三种启动方法之间的比较"> 三种启动方法之间的比较</h2>
-<p>虽然本文一直在强调目前主流有三种启动游戏的方法，实际情况中，其实只需要两种就可以，另一种只用来备用。</p>
-<p>详细可以通过下面表格对比得出：</p>
-<hr>
-<table>
-<thead>
-<tr>
-<th style="text-align:center">对比项</th>
-<th style="text-align:center">原生态网页启动</th>
-<th style="text-align:center">使用 LE 启动</th>
-<th style="text-align:center">第三方缤放登录器启动</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">不用修改系统语言环境</td>
-<td style="text-align:center"><font color="red">✘</font></td>
-<td style="text-align:center"><font color="green">✔</font></td>
-<td style="text-align:center"><font color="green">✔</font></td>
-</tr>
-<tr>
-<td style="text-align:center">不需要 .Net 运行库支持</td>
-<td style="text-align:center"><font color="green">✔</font></td>
-<td style="text-align:center"><font color="red">✘</font></td>
-<td style="text-align:center"><font color="red">✘</font></td>
-</tr>
-<tr>
-<td style="text-align:center">记住密码风险性</td>
-<td style="text-align:center">IE易泄露密码，风险大</td>
-<td style="text-align:center">不支持账号密码</td>
-<td style="text-align:center">相对安全</td>
-</tr>
-<tr>
-<td style="text-align:center">多账号切换</td>
-<td style="text-align:center"><font color="red">✘</font></td>
-<td style="text-align:center">不支持账号密码</td>
-<td style="text-align:center"><font color="green">✔</font></td>
-</tr>
-<tr>
-<td style="text-align:center">一步到位进入游戏</td>
-<td style="text-align:center"><font color="green">✔</font></td>
-<td style="text-align:center">仅启动游戏，不能登入</td>
-<td style="text-align:center"><font color="green">✔</font></td>
-</tr>
-<tr>
-<td style="text-align:center">星级得分</td>
-<td style="text-align:center">💛💛🤍🤍🤍</td>
-<td style="text-align:center">💛🤍🤍🤍🤍</td>
-<td style="text-align:center">💛💛💛💛🤍</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<p>由于我们大多注册的都是 <code>港号</code>，港号使用了较旧的技术，仅支持古老的 <code>IE 浏览器</code>，从上图对比可以看出：</p>
-<p><strong>原生太网页启动</strong>：适合单个账号，并不需要记住密码的用户使用，仅需要修改一下系统的语言环境（非常容易修改）就可以做到直接启动游戏并正常畅玩。</p>
-<p><strong>使用 LE 启动</strong>：<code>LE</code> 是 <code>Locale Emulator</code> 的缩写，它能让您的电脑不管处于什么语言环境，都能运行指定语言环境的程序，神器！但是它本身不进行相关账号密码管理，因此，很多单机游戏会用到它。此方法仅仅只是支持游戏程序能正常启动，由于本身不支持账号密码，导致无法登录游戏，眼看着登录界面，却什么也做不了。此方法多用来备用。</p>
-<p><strong>第三方缤放登录器启动</strong>：第三方登录器本身是采用了 <code>LE</code> 来启动游戏，让您可以在简体操作系统里直接启动游戏。并且，由于本身集成了账号管理，可以非常方便进行多账号登录操作。唯一可惜的是：它使用 <code>.Net</code> 开发，配置低的电脑再运行 <code>.Net</code> 开发的程序会占用掉大量的系统资源，并且，如果操作系统不是 Win 10 以上的话，会容易出现一些特别情况。</p>
-<p>现在大家会对如何选择适合自己的启动游戏方法有一定的了解，接下来，分析一下他们之间的实现方法，请往下看。</p>
-<h2 id="方法一-原生态网页启动"> 方法一：原生态网页启动</h2>
-<p>要想使用网页启动游戏，你需要把电脑的区域设置为繁体台湾。</p>
-<p>打开：控制面板，在控制面板里找到区域。如果你的是 “类别” 显示，你应该先找：时钟和区域，再在里面找到 “区域”</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/region.webp" alt="windows 的区域设置" /></p>
-<p>在区域设置的 “管理” 非 unicode 程序的语言里，点击 “更改系统区域设置”，选择设置如下图：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/languages-for-non-unicode-programs.webp" alt="更改系统非 unicode 程序的语言设置" /></p>
-<blockquote>
-<p>设置繁体区域之后，建议不要使用老版本的第三方缤放登录器来启动游戏啦，不然容易报：C00700C1 错误。</p>
-</blockquote>
-<p>这样就可以在简体操作系统直接启动新枫之谷啦。</p>
-<h2 id="方法二-使用-le-启动"> 方法二：使用 LE 启动</h2>
-<p>使用 LE 来启动游戏，可以比较好解决 <code>第三方缤放登录器</code> 3.x 版本 卡死的问题。</p>
-<p>启动游戏之后，可以配合使用第三方缤放登录器获取密码来进入游戏。</p>
-<p>这是一个非常不错的搭配方法。</p>
-<blockquote>
-<p>感兴趣的小伙伴们，可以网上搜索查相关文章。</p>
-</blockquote>
-<h2 id="方法三-第三方缤放登录器启动"> 方法三：第三方缤放登录器启动</h2>
-<p>使用 “第三方缤放登录器” 可以很好解决 “This client can be executed only in Traditonal Chinese code-page” 这类问题，因为 “缤放” 已经引用了 <code>Locale Emulator</code> 模块，简体系统，一样玩新枫之谷！</p>
-<blockquote>
-<p>前往：<a href="https://github.com/pungin/Beanfun/releases" target="_blank" rel="noopener noreferrer">第三方缤放 Github 下载页面</a>（无法访问请联系我取得帮助：QQ：87182380，放心，我不会向您发送任何文件）</p>
-</blockquote>
-<p>由于涉及到资金安全，建议大家下载回来的第三方缤放登录器，先进行安全检测。</p>
-<blockquote>
-<p>在线查杀：<a href="http://www.virscan.org/language/zh-cn/" target="_blank" rel="noopener noreferrer">中文 virscan</a> | <a href="https://www.virustotal.com/gui/home/upload" target="_blank" rel="noopener noreferrer">国际英文 virustotal</a>，结果仅供参考</p>
-</blockquote>
-<details><summary>Win 7 请看：</summary>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/beanfun-has-stopped-working-diagram.webp" alt="缤放已停止工作图" /></p>
-<p>由于 “第三方缤放登录器” 使用 .Net 开发，如果您是 Win 7 系统，您还需要更高版本的 .Net 运行库，以解决缤放登录器未响应或已停止工作等问题。</p>
-<blockquote>
-<p>前往：<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" rel="noopener noreferrer">微软 .NET Framework 下载页面</a>（这里以新版本 4.8 版本为例子，选择对应版本之后，点 <code>Download .NET Framework 4.8 Runtime</code> 下载）</p>
-</blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/download-microsoft-net-framework.webp" alt="下载微软 .NET Framework 4.8" /></p>
-<blockquote>
-<p>如果已经使用最新版本的 .Net 运行库，依旧提示错误或者未响应等情况，您需要清理 .Net 运行库的缓存，具体可以使用 <code>Dism++</code> 工具来清理。前往：<a href="https://www.chuyu.me/zh-Hans/" target="_blank" rel="noopener noreferrer">Dism++ 官网下载</a></p>
-</blockquote>
-</details>
-<p>在设定界面指定一下新枫之谷的游戏路径，设定按钮在 “缤放” 的右上角那一排可以找到。</p>
-<p>设置界面如下：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/beanfun-setting.webp" alt="缤放设置界面" /></p>
-<p>其中选中 “传统登入模式”，就会有 “获取密码”，这样就能获取动态登入游戏了。</p>
-<div><p>提示</p>
-<p>如果您是新人，建议不要选中 “传统登入模式”，这样点启动游戏就会直接登录您的游戏账号。</p>
-</div>
-<p>如果没有勾选获取密码旁边的 “自动输入”，那么您需要手动复制游戏账号及动态密码。</p>
-<blockquote>
-<p>游戏账号需要在 <code>第三方缤放登录器</code> 软件界面里双击自己的账号名称，就会复制一段类似乱码一样的字符串，这就是游戏的账号；密码需要点 <code>获取密码</code> 才会出现。</p>
-</blockquote>
-<div><p>警告</p>
-<p>千万不要在游戏登录界面里输入注册的 Beanfun 账号和密码来登录游戏！</p>
-<p>新枫之谷（台服冒险岛）使用的是 Beanfun 账号获取游戏账号的动态密码进行登录游戏的！</p>
-<p>如果不知晓怎么查看自己的游戏账号和密码，可以看下面的：“打开查看：启动游戏会提示：未选择启动游戏的账号”</p>
-<details><summary>打开查看：启动游戏会提示：未选择启动游戏的账号</summary>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/no-account-selected.webp" alt="第三方缤放登录器启动游戏时提示你还未选择启动游戏的账号" /></p>
-<p>如果你的账号是刚刚注册的，登录缤放之后，是无法获取密码的，你还需要进行下列操作：</p>
-<p>1.在 <code>第三方缤放登录器</code> 主界面右下角，点击 “新增账号”</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/new-account.webp" alt="在第三方缤放登录器里新增账号" /></p>
-<p>2.在 “使用者名称” 里输入注册账号时填写的昵称（其实可以随便填的，但是发生过 BUG，这个 BUG 应该不会再出现了。）</p>
-<blockquote>
-<p>如果您无法正常新增账号，您需要使用 IE 浏览器，在浏览器里网页在线增加！</p>
-</blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/username.webp" alt="第三方缤放登录器的使用者名称" /></p>
-<p>3.如果你的 <code>第三方缤放登录器</code> 底下没有获取密码按钮，那么你需要在 “设定” 里选中 “传统登入模式”</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/traditional-login-mode.webp" alt="在第三方缤放登录器里使用传统登入模式进入游戏" /></p>
-<p>4.新版本 <code>第三方缤放登录器</code> 默认是隐藏了账号，你可以在账户名称里双击复制你的账号。（如果选中自动输入，获取密码后，第三方缤放登录器会自动帮你输入账号和密码）</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/copy-account.webp" alt="在第三方缤放登录器里双击账户名复制账号" /></p>
-</details>
-</div>
-<p>如果使用第三方缤放登录器遇到一些困难或者错误等，可以参考这篇文章，有着许多常见的问题解答：</p>
-<blockquote>
-<p>查阅：<a href="/beanfun-stop-working.html">新枫之谷第三方缤放登录器使用教程-完全篇</a></p>
-</blockquote>
-<h2 id="没看这一步的人都哭晕了"> 没看这一步的人都哭晕了 <i>Not supported content</i></h2>
-<div><p>第一次提示的密码为二级密码，非常重要！</p>
-<p>创建角色、进入仓库、现金道具交易等都需要它，尽量简单易记就行，别太复杂！</p>
-<p>如果忘记二级密码，您只能邮件联系客户取得帮助，非常麻烦！</p>
-</div>
-<div><p>游戏角色名一定要包含中文！</p>
-<p>创建游戏角色名请一定要包含中文！不然容易锁号！</p>
-<p>别起个全英文，或者英文加数字的角色名，一天一锁别来哭诉！</p>
-</div>
-<div><p>每周三维护</p>
-<p>每周三会进入维护，一般是早 <font color="red">8点</font> 到中午 <font color="red">14点</font>，大维护时期具体时间请看官网公告。维护期间是无法进入游戏的！</p>
-</div>
-<div><p>刚刚注册的账号别急着进入游戏</p>
-<p>如果账号是刚刚注册，别急着进游戏，先放松几分钟，不然，会提示下面错误：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/unable-to-connect-due-to-system-error.webp" alt="因系统错误无法连线" /></p>
-<p>等几分钟后（这个过程可能是需要同步港号的相关数据，有时需要隔一两天），就可以进游戏啦！</p>
-<p>如果你等一段时间还是提示这个，请确认你的账号是否进行了两次进阶认证！</p>
-<blockquote>
-<p>好像从 2020年 3月份 开始，就提示为 “请确认您的 Gash 账号与游戏账号是否为正常状态”</p>
-</blockquote>
-</div>
-]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/start-game/region.webp" type="image/webp"/>
     </item>
     <item>
       <title>❓ 解决聊天打字全是问号</title>
