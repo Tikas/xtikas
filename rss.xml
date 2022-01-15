@@ -6,15 +6,15 @@
     <link>https://xtikas.com/</link>
     <description>一个充满了新枫之谷探索成果的网站</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 12 Jan 2022 14:21:06 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Jan 2022 14:21:06 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Jan 2022 16:15:40 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Jan 2022 16:15:40 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 𝒙𝑻𝒊𝒌𝒂𝒔</copyright>
     <category>知识</category>
     <category>吃瓜</category>
-    <category>工具</category>
     <category>新人教程</category>
+    <category>工具</category>
     <item>
       <title>多招教您防护自己的账号安全，让您不用担心盗号</title>
       <link>https://xtikas.com/anti-theft.html</link>
@@ -159,7 +159,7 @@
 <h3 id="💡防范方法-c、使用密码管理器为自己的不同账号分配随机密码"> 💡防范方法：C、使用密码管理器为自己的不同账号分配随机密码</h3>
 <p>方法 B 所创建的密码记忆体，毕竟有规律可寻，要是被有心人知晓自己的密码记忆体加密方式，依旧会有危害到其他网站账号的风险。</p>
 <p>为此，<code>小T同学</code>更推荐大家使用随机的密码，长度设置为每个网站所支持的最大密码长度。</p>
-<p>当前，使用这个方法之前，先给自己的账号分级，并不是所有的级别都适合使用：</p>
+<p>当然，使用这个方法之前，先给自己的账号分级，并不是所有的级别都适合使用：</p>
 <ul>
 <li>重要的如支付宝、银行、QQ、微信等和金钱相关的，建议为每个设置另一个复杂的记忆体进行加密码</li>
 <li>其次是相对重要的，又常需要输入的密码，可以使用另一种记忆体进行加密，或者直接使用密码管理器生成的随机密码</li>
@@ -429,6 +429,67 @@
       <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/avatar/anan-240x240.webp" type="image/webp"/>
     </item>
     <item>
+      <title>【新手入门篇】：角色的游戏基本操作</title>
+      <link>https://xtikas.com/basic-operation.html</link>
+      <guid isPermaLink="false">/basic-operation.html</guid>
+      <source url="https://xtikas.com/rss.xml">【新手入门篇】：角色的游戏基本操作</source>
+      <description>如果您从没玩过新枫之谷（TMS台服冒险岛），并且已经下载好游戏注册好账号，不妨跟随本文一起走入 MapleStory 游戏世界，从角色的基本操作开始。</description>
+      <category>新人教程</category>
+      <pubDate>Wed, 12 Jan 2022 13:59:49 GMT</pubDate>
+      <content:encoded><![CDATA[<p>MapleStory 这款游戏是有着非常多的职业，而很多职业一开始都是从职业群共有的新手村开始，随着等级的提高，可以选择不同的职业进行转职，其中 <code>冒险家</code> 这个职业群最为古老，从游戏之初就活跃在 MapleStory 各个角落，他们才是支撑起这游戏的一群职业。</p>
+<p>虽然 MapleStory 经历过大巨变等等大改动，然而，彩虹村依旧是许多人心中梦的起点，让我们一起追随前人们的脚步，从 <code>冒险家</code> 开始体验游戏的基本操作。</p>
+<div><p>提示</p>
+<p>为了您能有一个良好的游戏体验，请务必完成冒险家的基本操作之后，停止冒险家的旅程！</p>
+<p>冒险家对新手非常不友好，我们只需要体验一下游戏的基本操作，之后就停下冒险家的冒险旅程，更换其他对新手更加友好的职业进一步游戏体验。</p>
+</div>
+<h2 id="一、创建冒险家角色"> 一、创建冒险家角色</h2>
+<p>进入游戏之后，您或许可能需要等一会，<code>创建角色</code> 按钮才会激活，如果您当前的版本有 <code>斗燃</code> 活动，请不要创建斗燃角色（升一级之后，额外再升两级，分 <code>10 - 120 级</code> 的小斗燃活动，和 <code>10 - 200 级</code> 的大斗燃活动，大小是玩家私下命名的。）</p>
+<p>如果您是第一次创建角色，会提示您设置您的二级密码，这个二级密码非常重要，建议简单易记就可以。</p>
+<p>验证码无误，不出意外，您会进来 <code>选择职业</code> 界面，如下图所示（不同版本其显示的职业排序不同，但界面操作相同）</p>
+<p>TODO：添加职业选择界面图</p>
+<p>中间最下面一栏所显示的职业，并没有显示出全部职业（或职业群体），您需要点击 <code>〈</code> 、<code>〉</code> 来展示其余职业（或职业群体），尝试找到 <code>冒险家</code> 并点击 <code>新创角色</code> 来创建一个初心者吧（冒险家职业群最开始时职业名称），角色名要带有中文哦！出现 <code>设定按键模式</code> 时，先别选择，可以看接下来的第二部分。</p>
+<blockquote>
+<p>小节总结：<br>
+A：学会进入创建角色界面<br>
+B：学会选择指定的职业或职业群进行创建角色</p>
+</blockquote>
+<h2 id="二、按键模式选择"> 二、按键模式选择</h2>
+<p>当您输入的 <strong>角色名</strong> 合法并且没有被占用时，就会提示 <code>设定按键模式</code>：</p>
+<p>TODO：添加设定按键模式图</p>
+<p>其中两种模式大概介绍如下：</p>
+<ul>
+<li>基本模式设定：适合老玩家使用。老玩家从最初的游戏版本开始冒险，那时候默认统一使用的是这个按键模式，如果您是老玩家，并且已经习惯了旧的按键方式，可以选择此模式。（注：此模式布局非常不合理，如果您并非老玩家，请不要选择此模式）</li>
+<li>进阶模式设定：此按键模式，非常适合新玩家使用，相信看此教程的您，应该是新玩家，不用犹豫，直接选择此模式吧！</li>
+</ul>
+<div><p>游戏内可以随时更换按键模式</p>
+<p>您不用担心选错按键模式这个问题，因为您可以在游戏内随时更换按键模式（说是随时，其实还是有限制，您在一些特殊场景时，是无法进行按键更改的）。</p>
+</div>
+<blockquote>
+<p>小节总结：<br>
+A：了解两种按键模式的区别，并选择适合自己的默认按键模式</p>
+</blockquote>
+<h2 id="三、学会基本的角色移动、跳跃、普通攻击"> 三、学会基本的角色移动、跳跃、普通攻击</h2>
+<p>进入游戏，您会出现在一棵大树旁边，如果不出意外，会有一个对话框，尝试用鼠标操作，或者使用键盘的空格键（或者回车键）来更高效进行对话框处理。</p>
+<div><p>空格键和回车键对于对话框处理的区别</p>
+<p>系统默认的 <code>空格</code> 按键是 <code>採集</code> 功能，它有确定的作用，如果一直按住不放，对话框里有多个选择的情况下，会默认确认第一个选择。</p>
+<p><code>回车键</code> 就简单的按下回车键的作用于一些按钮或者聊天框，对于对话框里的多个选择，并不会直接作用，而是作用到对话框的右下角按钮。</p>
+<p>对于一些需要选择的对话框处理，建议使用 <code>回车键</code> 跳过前期对话，以防止错过选择（如果没有对话框了，会不断闪屏聊天窗）</p>
+<p>对于不需要选择的，直接 <code>空格键</code> 即可（如果离一些能交互的事物或 NPC 太近，会不断出现对话框，XDDD）</p>
+</div>
+<p>这时候，您已经能看到 MapleStory 的整体游戏风格，您的角色应该是在游戏的左边，而开始的引导也是指引您向右边行走，这也是一个贯穿了绝大部分情景的一个要点：</p>
+<p><strong>左走回去，右走前进</strong></p>
+<p>这个要点在您做一些任务、剧情、BOSS挑战等等时候，几乎适用。</p>
+<p>而您，可以尝试使用键盘的 <code>↑</code>上、<code>↓</code>下、<code>←</code>左、<code>→</code>右 四个按键对角色进行操作，大概尝试结果如下：</p>
+<ul>
+<li><code>↑</code> 向上键没有任何反应</li>
+<li><code>↓</code> 向下键角色趴在地上，一直按住，就一直趴着</li>
+<li><code>←</code> 向左键角色会向左移动一下，一直按住，就一直向左移动</li>
+<li><code>→</code> 向右键角色会向右移动一下，一直按住，就一直向右移动</li>
+</ul>
+<p>如果您尝试结果如上所说，恭喜，您已经学会移动角色了。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>提供新枫之谷安全可靠的代练服务</title>
       <link>https://xtikas.com/dailian.html</link>
       <guid isPermaLink="false">/dailian.html</guid>
@@ -553,13 +614,6 @@
 <p>谢谢您的来访，<code>小T同学</code>更希望本站的其他内容能给您带来帮助！</p>
 <p>感谢感谢，不再多说了，拜拜~</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>小T同学:xTikas</title>
-      <link>https://xtikas.com/</link>
-      <guid>https://xtikas.com/</guid>
-      <source url="https://xtikas.com/rss.xml">小T同学:xTikas</source>
-      <pubDate>Sat, 08 Jan 2022 12:44:45 GMT</pubDate>
     </item>
     <item>
       <title>缤放登录器-乐豆第三方客户端：使用教程</title>
@@ -834,6 +888,13 @@
       <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/beanfun/trojan-mail.webp" type="image/webp"/>
     </item>
     <item>
+      <title>小T同学:xTikas</title>
+      <link>https://xtikas.com/</link>
+      <guid>https://xtikas.com/</guid>
+      <source url="https://xtikas.com/rss.xml">小T同学:xTikas</source>
+      <pubDate>Sat, 08 Jan 2022 12:44:45 GMT</pubDate>
+    </item>
+    <item>
       <title>🆔 新枫之谷（台服冒险岛）账号注册</title>
       <link>https://xtikas.com/register-an-account.html</link>
       <guid isPermaLink="false">/register-an-account.html</guid>
@@ -1059,34 +1120,6 @@
       <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/account/update-file.webp" type="image/webp"/>
     </item>
     <item>
-      <title>【新手入门篇】：角色的游戏基本操作</title>
-      <link>https://xtikas.com/basic-operation.html</link>
-      <guid isPermaLink="false">/basic-operation.html</guid>
-      <source url="https://xtikas.com/rss.xml">【新手入门篇】：角色的游戏基本操作</source>
-      <description>如果您从没玩过新枫之谷（TMS台服冒险岛），并且已经下载好游戏注册好账号，不妨跟随本文一起走入 MapleStory 游戏世界，从角色的基本操作开始。</description>
-      <category>新人教程</category>
-      <pubDate>Wed, 12 Jan 2022 13:59:49 GMT</pubDate>
-      <content:encoded><![CDATA[<p>MapleStory 这款游戏是有着非常多的职业，而很多职业一开始都是从职业群共有的新手村开始，随着等级的提高，可以选择不同的职业进行转职，其中 <code>冒险家</code> 这个职业群最为古老，从游戏之初就活跃在 MapleStory 各个角落，他们才是支撑起这游戏的一群职业。</p>
-<p>虽然 MapleStory 经历过大巨变等等大改动，然而，彩虹村依旧是许多人心中梦的起点，让我们一起追随前人们的脚步，从 <code>冒险家</code> 开始体验游戏的基本操作。</p>
-<div><p>提示</p>
-<p>为了您能有一个良好的游戏体验，请务必完成冒险家的基本操作之后，停止冒险家的旅程！</p>
-<p>冒险家对新手非常不友好，我们只需要体验一下游戏的基本操作，之后就停下冒险家的冒险旅程，更换其他对新手更加友好的职业进一步游戏体验。</p>
-</div>
-<h2 id="一、创建冒险家角色"> 一、创建冒险家角色</h2>
-<p>进入游戏之后，您或许可能需要等一会，<code>创建角色</code> 按钮才会激活，如果您当前的版本有 <code>斗燃</code> 活动，请不要创建斗燃角色（升一级之后，额外再升两级，分 <code>10 - 120 级</code> 的小斗燃活动，和 <code>10 - 200 级</code> 的大斗燃活动，大小是玩家私下命名的。）</p>
-<p>如果您是第一次创建角色，会提示您设置您的二级密码，这个二级密码非常重要，建议简单易记就可以。</p>
-<p>验证码无误，不出意外，您会进来 <code>选择职业</code> 界面，如下图所示（不同版本其显示的职业排序不同，但界面操作相同）</p>
-<p>TODO：添加职业选择界面图</p>
-<p>中间最下面一栏所显示的职业，并没有显示出全部职业（或职业群体），您需要点击 <code>〈</code> 、<code>〉</code> 来展示其余职业（或职业群体），尝试找到 <code>冒险家</code> 并点击 <code>新创角色</code> 来创建一个初心者吧（冒险家职业群最开始时职业名称），角色名要带有中文哦！</p>
-<blockquote>
-<p>小节总结：<br>
-A：学会进入创建角色界面<br>
-B：学会选择指定的职业或职业群进行创建角色</p>
-</blockquote>
-<h2 id="二、"> 二、</h2>
-]]></content:encoded>
-    </item>
-    <item>
       <title>☁️ 新枫之谷下载教学教程（TMS台服冒险岛）</title>
       <link>https://xtikas.com/download.html</link>
       <guid isPermaLink="false">/download.html</guid>
@@ -1172,6 +1205,138 @@ B：学会选择指定的职业或职业群进行创建角色</p>
 </details>
 ]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/download/run-the-update-package.webp" type="image/webp"/>
+    </item>
+    <item>
+      <title>💲 beanfun 乐豆点 Gash 充值教程</title>
+      <link>https://xtikas.com/recharge-tutorial.html</link>
+      <guid isPermaLink="false">/recharge-tutorial.html</guid>
+      <source url="https://xtikas.com/rss.xml">💲 beanfun 乐豆点 Gash 充值教程</source>
+      <description>最全的新枫之谷 beanfun 乐豆点 Gash 充值教程，还附加很多新人不知道的商城秘密</description>
+      <category>新人教程</category>
+      <pubDate>Sat, 08 Jan 2022 12:44:45 GMT</pubDate>
+      <content:encoded><![CDATA[<p>很多新人刚来到新枫之谷，就会迫不及待想拥有一个宠物先，毕竟这可以解放一下自己的双手去捡取道具。</p>
+<p>然而，商城里却有一个大坑！</p>
+<p>千万别直接去宠物专区购买！这是一个骗局！</p>
+<p>这一切，都要从如何充值开始说起。</p>
+<h2 id="充值步骤"> 充值步骤</h2>
+<p>要想充值新枫之谷的乐豆点（就是商城里使用的点卷），首先自己得有充值卡的 “充值码”，又叫 “储值密码”。</p>
+<p>现在市面流动的是 <strong><code>20位</code></strong> 和 <strong><code>21位</code></strong> 充值码（储值密码）。</p>
+<div><p>警告</p>
+<p>部分 <code>20位</code> 的充值码（储值密码）是 <strong>黑卡</strong> ！</p>
+<p>请不要购买黑卡进行充值！请认准 <code>21位</code> 的充值码。</p>
+</div>
+<p>一般是 1元 等于 5点 ，购买大点数往往会有优惠，比如：</p>
+<p>GASH 1000点 的樂豆點，折算人民币是：200元，实际购买价一般会是在 190-200元 之间。（购买价会因市场变动而变动）</p>
+<h3 id="_1️⃣-去淘宝购买-gash-充值卡"> 1️⃣ 去淘宝购买 Gash 充值卡</h3>
+<p>使用 “beanfun” 、“樂豆點” 、“GASH” 、“新枫之谷” 等关键词，找一家相对可靠的购买。</p>
+<div><p>提示</p>
+<p>建议请购买 <code>21位</code> 的充值码！</p>
+<p>举例：<code>20位</code> 的 <code>1000点</code> 的 <code>黑卡</code> 成本可能也就 <code>0元 - 100元</code> 左右，使用黑卡导致一切经济损失，自行承担！</p>
+</div>
+<blockquote>
+<p>知识点：<br>
+并不是所有的 <code>20位</code> 充值码都是 <code>黑卡</code>。但是由于 <code>20位</code> 是线上 <code>Gash商城</code> 支付购买的，属于电子卡。<br>
+和 <code>21位</code> 实体充值卡不一样的是：<code>20位</code> 可能是黑客利用后门生成，或者使用非法信用卡盗刷，从而容易追究责任！</p>
+</blockquote>
+<h3 id="_2️⃣-充值之前"> 2️⃣ 充值之前</h3>
+<h4 id="可选1-使用网页前往充值"> 可选1：使用网页前往充值</h4>
+<blockquote>
+<p>港号仅支持 IE 浏览器 <strong><a href="http://hk.beanfun.com/Default.aspx" target="_blank" rel="noopener noreferrer">港号 Beanfun 登录页面</a> ｜ <a href="https://maplestory.beanfun.com/main#" target="_blank" rel="noopener noreferrer">台号 Beanfun 登录页面</a></strong></p>
+</blockquote>
+<p>登录之后点击在我的钱包里的 “储值与购点”，如下图：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/enter-the-recharge-gash-page.webp" alt="网页进入充值GASH页面" /></p>
+<h4 id="可选2-使用-第三方缤放登录器-前往充值"> 可选2：使用 “第三方缤放登录器” 前往充值</h4>
+<p>点缤放主界面的 “乐豆点” 菜单，选择 “储值与购点”</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/use-the-beanfun-login-device-to-enter-the-recharge-gash-page.webp" alt="使用第三方缤放登录器进入充值GASH页面" /></p>
+<h3 id="_3️⃣-充值"> 3️⃣ 充值</h3>
+<p>这里分开两种充值过程示例，第一个为港号，第二个为台号，默认显示是港号的充值过程</p>
+<p>如果需要查看台号的充值过程，请自己手动点击：<code>B、台号充值进行时</code></p>
+<CodeGroup>
+<CodeGroupItem title="A、港号充值进行时">
+<div><p>港号充值过程</p>
+<p>点充值 GASH 页面中间的 “台湾通用点数” ，会进入一个确认同意书页面，如下图：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/choose-taiwan-general-gash-points.webp" alt="选择台湾通用GASH点数" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/agree-and-confirm-the-purchase.webp" alt="同意同意书并进行确定购买" /></p>
+<p>耐心等待，你将会发现新的页面会提示你输入 “储值密码” 进行储值。</p>
+<blockquote>
+<p><em>如果充值页面打不开，显示 tls，一直反复跳网页等，请更换加速器或断开加速器试试</em></p>
+</blockquote>
+<p>输入购买来的正版 21位 充值码，手机不用填写，点 “进行储值” 吧！</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/enter-the-21-digit-genuine-recharge-code-to-recharge-gash-points.webp" alt="输入21位正版充值码进行充值GASH点" /></p>
+<p>不一会，你将看到已经验证成功了的提示。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/tips-for-successful-recharge-of-gash-points.webp" alt="GASH点充值成功提示" /></p>
+<p>也许网络原因会导致验证结果延迟，显示充值失败，不影响，不管充值成功与否，后去刷新一下点数吧！</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/click-update-points-to-refresh-the-current-gash-points.webp" alt="点击“更新点数”进行刷新当前GASH点数" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/gash-points-recharge-completed.webp" alt="GASH点数充值完成" /></p>
+<p>如上图，充值了 50 GASH点，外面显示乐豆：125点，游戏内显示 50点，这是因为：</p>
+<p>台号 10 GASH = 港号 25 GASH</p>
+<p>而大家只要知道游戏内多少点，就可以了，我们只需要记住新枫之谷充值比例接近下面这个值就可以：</p>
+<p>游戏内 5点 ≈ 人民币 1元 （具体请折算购买充值卡时的价格）</p>
+</div>
+</CodeGroupItem>
+<CodeGroupItem title="B、台号充值进行时" active>
+<div><p>这里就以缤放登录器为例子进行介绍，网页的充值过程其实是一样的。</p>
+<p>从缤放登录器里登录自己的台号后，在主界面的乐豆里可以找到充值入口：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/stored-value-and-point-of-purchase.webp" alt="台号GASH储值和购点" /></p>
+<p>选择 “点数、礼物卡储值”：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/gash-stored-value-page.webp" alt="点数、礼物卡储值" /></p>
+<p>输入自己购买的储值卡，手机可以不用填写：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/gash-for-recharge.webp" alt="输入购买的储值卡" /></p>
+<p>储值成功（如果提示错误，可以尝试前面的乐豆卡储值）：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/successfully-recharge.webp" alt="充值成功" /></p>
+<p>回到主界面，刷新一下点数：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/update-points.webp" alt="刷新点数" /></p>
+<p>结果如下：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/current-available-points.webp" alt="充值到账后的现有点数" /></p>
+</div>
+</CodeGroupItem>
+</CodeGroup>
+<h2 id="正确的商城点数使用姿势"> 正确的商城点数使用姿势！ <i>Not supported content</i></h2>
+<p>当 GASH 点数充值成功时，是不是非常急不可耐去商城购买物品了，别急，下面这些信息对你来说非常重要！</p>
+<p>或许会帮你省下不少钱！</p>
+<h3 id="🅰-坑害无数人的普通宠物购买专区"> 🅰 坑害无数人的普通宠物购买专区！</h3>
+<p>许多萌新在新枫之谷充值后第一件事就是去购买宠物，然而，却不知宠物里有一个坑！</p>
+<p>这就是外面的宠物栏显示的 100乐豆点 普通宠物（20元一个）。</p>
+<p>为什么说他坑呢？</p>
+<p>因为这里的宠物无法交换成 “宠物硬币”！还更贵！</p>
+<p>真的太贵了！</p>
+<p>宠物硬币是一种消耗型硬币，双击他，可以换取一些非常实用的物品，具体宠物硬币交换物品清单如下图：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/list-of-pet-coin-exchange-items.webp" alt="宠物硬币交换物品清单" /></p>
+<blockquote>
+<ul>
+<li><strong>非常值得交换的物品有</strong>：<br>
+1.经验值 2倍优惠卷（消耗 1个 宠物硬币）<br>
+<s>2.白金锤子</s>（消耗 3个 宠物硬币，不建议换购，可以收艾比的白锤）<br>
+3.宠物白金剪刀（消耗 4个 宠物硬币）<br>
+4.永恒的生命水（消耗 5个 宠物硬币）</li>
+</ul>
+</blockquote>
+<p>问：那么，既然这些 100 乐豆点的普通宠物（ 20 元一个）不能交换宠物硬币，那可以交换宠物硬币的宠物在那里购买呢？</p>
+<p>答：好问题！（感谢台胞 <code>123321ruby</code> 有问必答系列经典回复词）</p>
+<p>在商城里的 “转蛋” 区里，有 “宠物随机箱” （单个 60 点卷，约 12 元），一次买十个的话就是 约 10 元 一个宠物。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/pet-random-box.webp" alt="宠物随机箱" /></p>
+<div><p>商城里显示的宠物专区，是很贵又不能交换硬币的普通宠物（一个 20元），如下图所示：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/ordinary-pet-with-100-points.webp" alt="100乐豆点的普通宠物" /></p>
+</div>
+<div><p>提示</p>
+<p><strong>买宠物请认准宠物随机箱！</strong> —— <em>重要提示请记笔记！</em></p>
+</div>
+<div><p>同职业群，可以通过商城共用宠物</p>
+<p>也就是说，同职业群的职业，宠物可以存放到商城仓库里，供同职业群的其他角色使用。</p>
+</div>
+<h3 id="🅱-聪明的人才知道的-7折-优惠"> 🅱 聪明的人才知道的 7折 优惠</h3>
+<p>在商城消费时，除了里程商店里完全是 “免费” 购买物品，还能使用 “里程币” 在非里程商店进行 7折 优惠购买物品</p>
+<p>只需要在购买物品时，勾选使用里程，就可以用一部份 “里程币” 代替 “乐豆点” 了，这是一件非常不错的省钱方法哦！</p>
+<blockquote>
+<p><em>并不是所有的商城物品都能以 “里程点” 代扣方式享受 7 折！</em></p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/thirty-percent-off-at-maplestory-mall.webp" alt="MapleStory商城7折购买" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/thirty-percent-off-purchase-of-double-experience-card-in-maplestory-mall.webp" alt="MapleStory商城双倍经验卡7折购买" /></p>
+<div><p>提示</p>
+<p><strong>在时装区看到有喜欢的时装，可以全里程兑换哦！</strong> —— <em>重要提示请记笔记！</em></p>
+</div>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/enter-the-recharge-gash-page.webp" type="image/webp"/>
     </item>
     <item>
       <title>🎈 MapleStory 各服务器对比及新人入坑建议选择指南教程</title>
@@ -1357,138 +1522,6 @@ B：学会选择指定的职业或职业群进行创建角色</p>
 <p>游戏之外，还有更多！</p>
 <p>祝您游戏愉快。</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>💲 beanfun 乐豆点 Gash 充值教程</title>
-      <link>https://xtikas.com/recharge-tutorial.html</link>
-      <guid isPermaLink="false">/recharge-tutorial.html</guid>
-      <source url="https://xtikas.com/rss.xml">💲 beanfun 乐豆点 Gash 充值教程</source>
-      <description>最全的新枫之谷 beanfun 乐豆点 Gash 充值教程，还附加很多新人不知道的商城秘密</description>
-      <category>新人教程</category>
-      <pubDate>Sat, 08 Jan 2022 12:44:45 GMT</pubDate>
-      <content:encoded><![CDATA[<p>很多新人刚来到新枫之谷，就会迫不及待想拥有一个宠物先，毕竟这可以解放一下自己的双手去捡取道具。</p>
-<p>然而，商城里却有一个大坑！</p>
-<p>千万别直接去宠物专区购买！这是一个骗局！</p>
-<p>这一切，都要从如何充值开始说起。</p>
-<h2 id="充值步骤"> 充值步骤</h2>
-<p>要想充值新枫之谷的乐豆点（就是商城里使用的点卷），首先自己得有充值卡的 “充值码”，又叫 “储值密码”。</p>
-<p>现在市面流动的是 <strong><code>20位</code></strong> 和 <strong><code>21位</code></strong> 充值码（储值密码）。</p>
-<div><p>警告</p>
-<p>部分 <code>20位</code> 的充值码（储值密码）是 <strong>黑卡</strong> ！</p>
-<p>请不要购买黑卡进行充值！请认准 <code>21位</code> 的充值码。</p>
-</div>
-<p>一般是 1元 等于 5点 ，购买大点数往往会有优惠，比如：</p>
-<p>GASH 1000点 的樂豆點，折算人民币是：200元，实际购买价一般会是在 190-200元 之间。（购买价会因市场变动而变动）</p>
-<h3 id="_1️⃣-去淘宝购买-gash-充值卡"> 1️⃣ 去淘宝购买 Gash 充值卡</h3>
-<p>使用 “beanfun” 、“樂豆點” 、“GASH” 、“新枫之谷” 等关键词，找一家相对可靠的购买。</p>
-<div><p>提示</p>
-<p>建议请购买 <code>21位</code> 的充值码！</p>
-<p>举例：<code>20位</code> 的 <code>1000点</code> 的 <code>黑卡</code> 成本可能也就 <code>0元 - 100元</code> 左右，使用黑卡导致一切经济损失，自行承担！</p>
-</div>
-<blockquote>
-<p>知识点：<br>
-并不是所有的 <code>20位</code> 充值码都是 <code>黑卡</code>。但是由于 <code>20位</code> 是线上 <code>Gash商城</code> 支付购买的，属于电子卡。<br>
-和 <code>21位</code> 实体充值卡不一样的是：<code>20位</code> 可能是黑客利用后门生成，或者使用非法信用卡盗刷，从而容易追究责任！</p>
-</blockquote>
-<h3 id="_2️⃣-充值之前"> 2️⃣ 充值之前</h3>
-<h4 id="可选1-使用网页前往充值"> 可选1：使用网页前往充值</h4>
-<blockquote>
-<p>港号仅支持 IE 浏览器 <strong><a href="http://hk.beanfun.com/Default.aspx" target="_blank" rel="noopener noreferrer">港号 Beanfun 登录页面</a> ｜ <a href="https://maplestory.beanfun.com/main#" target="_blank" rel="noopener noreferrer">台号 Beanfun 登录页面</a></strong></p>
-</blockquote>
-<p>登录之后点击在我的钱包里的 “储值与购点”，如下图：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/enter-the-recharge-gash-page.webp" alt="网页进入充值GASH页面" /></p>
-<h4 id="可选2-使用-第三方缤放登录器-前往充值"> 可选2：使用 “第三方缤放登录器” 前往充值</h4>
-<p>点缤放主界面的 “乐豆点” 菜单，选择 “储值与购点”</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/use-the-beanfun-login-device-to-enter-the-recharge-gash-page.webp" alt="使用第三方缤放登录器进入充值GASH页面" /></p>
-<h3 id="_3️⃣-充值"> 3️⃣ 充值</h3>
-<p>这里分开两种充值过程示例，第一个为港号，第二个为台号，默认显示是港号的充值过程</p>
-<p>如果需要查看台号的充值过程，请自己手动点击：<code>B、台号充值进行时</code></p>
-<CodeGroup>
-<CodeGroupItem title="A、港号充值进行时">
-<div><p>港号充值过程</p>
-<p>点充值 GASH 页面中间的 “台湾通用点数” ，会进入一个确认同意书页面，如下图：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/choose-taiwan-general-gash-points.webp" alt="选择台湾通用GASH点数" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/agree-and-confirm-the-purchase.webp" alt="同意同意书并进行确定购买" /></p>
-<p>耐心等待，你将会发现新的页面会提示你输入 “储值密码” 进行储值。</p>
-<blockquote>
-<p><em>如果充值页面打不开，显示 tls，一直反复跳网页等，请更换加速器或断开加速器试试</em></p>
-</blockquote>
-<p>输入购买来的正版 21位 充值码，手机不用填写，点 “进行储值” 吧！</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/enter-the-21-digit-genuine-recharge-code-to-recharge-gash-points.webp" alt="输入21位正版充值码进行充值GASH点" /></p>
-<p>不一会，你将看到已经验证成功了的提示。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/tips-for-successful-recharge-of-gash-points.webp" alt="GASH点充值成功提示" /></p>
-<p>也许网络原因会导致验证结果延迟，显示充值失败，不影响，不管充值成功与否，后去刷新一下点数吧！</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/click-update-points-to-refresh-the-current-gash-points.webp" alt="点击“更新点数”进行刷新当前GASH点数" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/gash-points-recharge-completed.webp" alt="GASH点数充值完成" /></p>
-<p>如上图，充值了 50 GASH点，外面显示乐豆：125点，游戏内显示 50点，这是因为：</p>
-<p>台号 10 GASH = 港号 25 GASH</p>
-<p>而大家只要知道游戏内多少点，就可以了，我们只需要记住新枫之谷充值比例接近下面这个值就可以：</p>
-<p>游戏内 5点 ≈ 人民币 1元 （具体请折算购买充值卡时的价格）</p>
-</div>
-</CodeGroupItem>
-<CodeGroupItem title="B、台号充值进行时" active>
-<div><p>这里就以缤放登录器为例子进行介绍，网页的充值过程其实是一样的。</p>
-<p>从缤放登录器里登录自己的台号后，在主界面的乐豆里可以找到充值入口：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/stored-value-and-point-of-purchase.webp" alt="台号GASH储值和购点" /></p>
-<p>选择 “点数、礼物卡储值”：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/gash-stored-value-page.webp" alt="点数、礼物卡储值" /></p>
-<p>输入自己购买的储值卡，手机可以不用填写：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/gash-for-recharge.webp" alt="输入购买的储值卡" /></p>
-<p>储值成功（如果提示错误，可以尝试前面的乐豆卡储值）：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/successfully-recharge.webp" alt="充值成功" /></p>
-<p>回到主界面，刷新一下点数：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/update-points.webp" alt="刷新点数" /></p>
-<p>结果如下：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/current-available-points.webp" alt="充值到账后的现有点数" /></p>
-</div>
-</CodeGroupItem>
-</CodeGroup>
-<h2 id="正确的商城点数使用姿势"> 正确的商城点数使用姿势！ <i>Not supported content</i></h2>
-<p>当 GASH 点数充值成功时，是不是非常急不可耐去商城购买物品了，别急，下面这些信息对你来说非常重要！</p>
-<p>或许会帮你省下不少钱！</p>
-<h3 id="🅰-坑害无数人的普通宠物购买专区"> 🅰 坑害无数人的普通宠物购买专区！</h3>
-<p>许多萌新在新枫之谷充值后第一件事就是去购买宠物，然而，却不知宠物里有一个坑！</p>
-<p>这就是外面的宠物栏显示的 100乐豆点 普通宠物（20元一个）。</p>
-<p>为什么说他坑呢？</p>
-<p>因为这里的宠物无法交换成 “宠物硬币”！还更贵！</p>
-<p>真的太贵了！</p>
-<p>宠物硬币是一种消耗型硬币，双击他，可以换取一些非常实用的物品，具体宠物硬币交换物品清单如下图：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/list-of-pet-coin-exchange-items.webp" alt="宠物硬币交换物品清单" /></p>
-<blockquote>
-<ul>
-<li><strong>非常值得交换的物品有</strong>：<br>
-1.经验值 2倍优惠卷（消耗 1个 宠物硬币）<br>
-<s>2.白金锤子</s>（消耗 3个 宠物硬币，不建议换购，可以收艾比的白锤）<br>
-3.宠物白金剪刀（消耗 4个 宠物硬币）<br>
-4.永恒的生命水（消耗 5个 宠物硬币）</li>
-</ul>
-</blockquote>
-<p>问：那么，既然这些 100 乐豆点的普通宠物（ 20 元一个）不能交换宠物硬币，那可以交换宠物硬币的宠物在那里购买呢？</p>
-<p>答：好问题！（感谢台胞 <code>123321ruby</code> 有问必答系列经典回复词）</p>
-<p>在商城里的 “转蛋” 区里，有 “宠物随机箱” （单个 60 点卷，约 12 元），一次买十个的话就是 约 10 元 一个宠物。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/pet-random-box.webp" alt="宠物随机箱" /></p>
-<div><p>商城里显示的宠物专区，是很贵又不能交换硬币的普通宠物（一个 20元），如下图所示：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/ordinary-pet-with-100-points.webp" alt="100乐豆点的普通宠物" /></p>
-</div>
-<div><p>提示</p>
-<p><strong>买宠物请认准宠物随机箱！</strong> —— <em>重要提示请记笔记！</em></p>
-</div>
-<div><p>同职业群，可以通过商城共用宠物</p>
-<p>也就是说，同职业群的职业，宠物可以存放到商城仓库里，供同职业群的其他角色使用。</p>
-</div>
-<h3 id="🅱-聪明的人才知道的-7折-优惠"> 🅱 聪明的人才知道的 7折 优惠</h3>
-<p>在商城消费时，除了里程商店里完全是 “免费” 购买物品，还能使用 “里程币” 在非里程商店进行 7折 优惠购买物品</p>
-<p>只需要在购买物品时，勾选使用里程，就可以用一部份 “里程币” 代替 “乐豆点” 了，这是一件非常不错的省钱方法哦！</p>
-<blockquote>
-<p><em>并不是所有的商城物品都能以 “里程点” 代扣方式享受 7 折！</em></p>
-</blockquote>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/thirty-percent-off-at-maplestory-mall.webp" alt="MapleStory商城7折购买" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/thirty-percent-off-purchase-of-double-experience-card-in-maplestory-mall.webp" alt="MapleStory商城双倍经验卡7折购买" /></p>
-<div><p>提示</p>
-<p><strong>在时装区看到有喜欢的时装，可以全里程兑换哦！</strong> —— <em>重要提示请记笔记！</em></p>
-</div>
-]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/tikas/cdn/img/blog/gash/enter-the-recharge-gash-page.webp" type="image/webp"/>
     </item>
     <item>
       <title>🎮 新枫之谷的启动方法</title>
