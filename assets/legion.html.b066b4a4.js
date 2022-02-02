@@ -1,0 +1,1 @@
+const e={key:"v-554ec946",path:"/legion.html",title:"\u8054\u76DF\u4ECB\u7ECD",lang:"zh-CN",frontmatter:{date:"2022-02-02T00:00:00.000Z",description:"\u8054\u76DF\u4ECB\u7ECD",permalink:"/legion.html"},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"system/legion.md"};export{e as data};
